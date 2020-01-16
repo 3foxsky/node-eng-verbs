@@ -1,0 +1,6860 @@
+[
+    {
+        "BF": "accept",
+        "Past Simple":   "accepted"
+    },
+    {
+        "BF": "add",
+        "Past Simple":   "added"
+    },
+    {
+        "BF": "admire",
+        "Past Simple":   "admired"
+    },
+    {
+        "BF": "admit",
+        "Past Simple":   "admitted"
+    },
+    {
+        "BF": "advise",
+        "Past Simple":   "advised"
+    },
+    {
+        "BF": "afford",
+        "Past Simple":   "afforded"
+    },
+    {
+        "BF": "agree",
+        "Past Simple":   "agreed"
+    },
+    {
+        "BF": "alert",
+        "Past Simple":   "alerted"
+    },
+    {
+        "BF": "allow",
+        "Past Simple":   "allowed"
+    },
+    {
+        "BF": "amuse",
+        "Past Simple":   "amused"
+    },
+    {
+        "BF": "analyse",
+        "Past Simple":   "analysed"
+    },
+    {
+        "BF": "announce",
+        "Past Simple":   "announced"
+    },
+    {
+        "BF": "annoy",
+        "Past Simple":   "annoyed"
+    },
+    {
+        "BF": "answer",
+        "Past Simple":   "answered"
+    },
+    {
+        "BF": "apologise",
+        "Past Simple":   "apologised"
+    },
+    {
+        "BF": "appear",
+        "Past Simple":   "appeared"
+    },
+    {
+        "BF": "applaud",
+        "Past Simple":   "applauded"
+    },
+    {
+        "BF": "appreciate",
+        "Past Simple":   "appreciated"
+    },
+    {
+        "BF": "approve",
+        "Past Simple":   "approved"
+    },
+    {
+        "BF": "argue",
+        "Past Simple":   "argued"
+    },
+    {
+        "BF": "arrange",
+        "Past Simple":   "arranged"
+    },
+    {
+        "BF": "arrest",
+        "Past Simple":   "arrested"
+    },
+    {
+        "BF": "arrive",
+        "Past Simple":   "arrived"
+    },
+    {
+        "BF": "ask",
+        "Past Simple":   "asked"
+    },
+    {
+        "BF": "attach",
+        "Past Simple":   "attached"
+    },
+    {
+        "BF": "attack",
+        "Past Simple":   "attacked"
+    },
+    {
+        "BF": "attempt",
+        "Past Simple":   "attempted"
+    },
+    {
+        "BF": "attend",
+        "Past Simple":   "attended"
+    },
+    {
+        "BF": "attract",
+        "Past Simple":   "attracted"
+    },
+    {
+        "BF": "avoid",
+        "Past Simple":   "avoided"
+    },
+    {
+        "BF": "back",
+        "Past Simple":   "backed"
+    },
+    {
+        "BF": "bake",
+        "Past Simple":   "baked"
+    },
+    {
+        "BF": "balance",
+        "Past Simple":   "balanced"
+    },
+    {
+        "BF": "ban",
+        "Past Simple":   "banned"
+    },
+    {
+        "BF": "bang",
+        "Past Simple":   "banged"
+    },
+    {
+        "BF": "bare",
+        "Past Simple":   "bared"
+    },
+    {
+        "BF": "bat",
+        "Past Simple":   "batted"
+    },
+    {
+        "BF": "bathe",
+        "Past Simple":   "bathed"
+    },
+    {
+        "BF": "battle",
+        "Past Simple":   "battled"
+    },
+    {
+        "BF": "beam",
+        "Past Simple":   "beamed"
+    },
+    {
+        "BF": "beg",
+        "Past Simple":   "begged"
+    },
+    {
+        "BF": "behave",
+        "Past Simple":   "behaved"
+    },
+    {
+        "BF": "belong",
+        "Past Simple":   "belonged"
+    },
+    {
+        "BF": "bleach",
+        "Past Simple":   "bleached"
+    },
+    {
+        "BF": "bless",
+        "Past Simple":   "blessed"
+    },
+    {
+        "BF": "blind",
+        "Past Simple":   "blinded"
+    },
+    {
+        "BF": "blink",
+        "Past Simple":   "blinked"
+    },
+    {
+        "BF": "blot",
+        "Past Simple":   "blotted"
+    },
+    {
+        "BF": "blush",
+        "Past Simple":   "blushed"
+    },
+    {
+        "BF": "boast",
+        "Past Simple":   "boasted"
+    },
+    {
+        "BF": "boil",
+        "Past Simple":   "boiled"
+    },
+    {
+        "BF": "bolt",
+        "Past Simple":   "bolted"
+    },
+    {
+        "BF": "bomb",
+        "Past Simple":   "bombed"
+    },
+    {
+        "BF": "book",
+        "Past Simple":   "booked"
+    },
+    {
+        "BF": "bore",
+        "Past Simple":   "bored"
+    },
+    {
+        "BF": "borrow",
+        "Past Simple":   "borrowed"
+    },
+    {
+        "BF": "bounce",
+        "Past Simple":   "bounced"
+    },
+    {
+        "BF": "bow",
+        "Past Simple":   "bowed"
+    },
+    {
+        "BF": "box",
+        "Past Simple":   "boxed"
+    },
+    {
+        "BF": "brake",
+        "Past Simple":   "braked"
+    },
+    {
+        "BF": "branch",
+        "Past Simple":   "branched"
+    },
+    {
+        "BF": "breathe",
+        "Past Simple":   "breathed"
+    },
+    {
+        "BF": "bruise",
+        "Past Simple":   "bruised"
+    },
+    {
+        "BF": "brush",
+        "Past Simple":   "brushed"
+    },
+    {
+        "BF": "bubble",
+        "Past Simple":   "bubbled"
+    },
+    {
+        "BF": "bump",
+        "Past Simple":   "bumped"
+    },
+    {
+        "BF": "burn",
+        "Past Simple":   "burned"
+    },
+    {
+        "BF": "bury",
+        "Past Simple":   "buried"
+    },
+    {
+        "BF": "buzz",
+        "Past Simple":   "buzzed"
+    },
+    {
+        "BF": "calculate",
+        "Past Simple":   "calculated"
+    },
+    {
+        "BF": "call",
+        "Past Simple":   "called"
+    },
+    {
+        "BF": "camp",
+        "Past Simple":   "camped"
+    },
+    {
+        "BF": "care",
+        "Past Simple":   "cared"
+    },
+    {
+        "BF": "carry",
+        "Past Simple":   "carried"
+    },
+    {
+        "BF": "carve",
+        "Past Simple":   "carved"
+    },
+    {
+        "BF": "cause",
+        "Past Simple":   "caused"
+    },
+    {
+        "BF": "challenge",
+        "Past Simple":   "challenged"
+    },
+    {
+        "BF": "change",
+        "Past Simple":   "changed"
+    },
+    {
+        "BF": "charge",
+        "Past Simple":   "charged"
+    },
+    {
+        "BF": "chase",
+        "Past Simple":   "chased"
+    },
+    {
+        "BF": "cheat",
+        "Past Simple":   "cheated"
+    },
+    {
+        "BF": "check",
+        "Past Simple":   "checked"
+    },
+    {
+        "BF": "cheer",
+        "Past Simple":   "cheered"
+    },
+    {
+        "BF": "chew",
+        "Past Simple":   "chewed"
+    },
+    {
+        "BF": "choke",
+        "Past Simple":   "choked"
+    },
+    {
+        "BF": "chop",
+        "Past Simple":   "chopped"
+    },
+    {
+        "BF": "claim",
+        "Past Simple":   "claimed"
+    },
+    {
+        "BF": "clap",
+        "Past Simple":   "clapped"
+    },
+    {
+        "BF": "clean",
+        "Past Simple":   "cleaned"
+    },
+    {
+        "BF": "clear",
+        "Past Simple":   "cleared"
+    },
+    {
+        "BF": "clip",
+        "Past Simple":   "clipped"
+    },
+    {
+        "BF": "close",
+        "Past Simple":   "closed"
+    },
+    {
+        "BF": "coach",
+        "Past Simple":   "coached"
+    },
+    {
+        "BF": "coil",
+        "Past Simple":   "coiled"
+    },
+    {
+        "BF": "collect",
+        "Past Simple":   "collected"
+    },
+    {
+        "BF": "colour",
+        "Past Simple":   "coloured"
+    },
+    {
+        "BF": "comb",
+        "Past Simple":   "combed"
+    },
+    {
+        "BF": "command",
+        "Past Simple":   "commanded"
+    },
+    {
+        "BF": "communicate",
+        "Past Simple":   "communicated"
+    },
+    {
+        "BF": "compare",
+        "Past Simple":   "compared"
+    },
+    {
+        "BF": "compete",
+        "Past Simple":   "competed"
+    },
+    {
+        "BF": "complain",
+        "Past Simple":   "complained"
+    },
+    {
+        "BF": "complete",
+        "Past Simple":   "completed"
+    },
+    {
+        "BF": "concentrate",
+        "Past Simple":   "concentrated"
+    },
+    {
+        "BF": "concern",
+        "Past Simple":   "concerned"
+    },
+    {
+        "BF": "confess",
+        "Past Simple":   "confessed"
+    },
+    {
+        "BF": "confuse",
+        "Past Simple":   "confused"
+    },
+    {
+        "BF": "connect",
+        "Past Simple":   "connected"
+    },
+    {
+        "BF": "consider",
+        "Past Simple":   "considered"
+    },
+    {
+        "BF": "consist",
+        "Past Simple":   "consisted"
+    },
+    {
+        "BF": "contain",
+        "Past Simple":   "contained"
+    },
+    {
+        "BF": "continue",
+        "Past Simple":   "continued"
+    },
+    {
+        "BF": "copy",
+        "Past Simple":   "copied"
+    },
+    {
+        "BF": "correct",
+        "Past Simple":   "corrected"
+    },
+    {
+        "BF": "cough",
+        "Past Simple":   "coughed"
+    },
+    {
+        "BF": "count",
+        "Past Simple":   "counted"
+    },
+    {
+        "BF": "cover",
+        "Past Simple":   "covered"
+    },
+    {
+        "BF": "crack",
+        "Past Simple":   "cracked"
+    },
+    {
+        "BF": "crash",
+        "Past Simple":   "crashed"
+    },
+    {
+        "BF": "crawl",
+        "Past Simple":   "crawled"
+    },
+    {
+        "BF": "cross",
+        "Past Simple":   "crossed"
+    },
+    {
+        "BF": "crush",
+        "Past Simple":   "crushed"
+    },
+    {
+        "BF": "cry",
+        "Past Simple":   "cried"
+    },
+    {
+        "BF": "cure",
+        "Past Simple":   "cured"
+    },
+    {
+        "BF": "curl",
+        "Past Simple":   "curled"
+    },
+    {
+        "BF": "curve",
+        "Past Simple":   "curved"
+    },
+    {
+        "BF": "cycle",
+        "Past Simple":   "cycled"
+    },
+    {
+        "BF": "dam",
+        "Past Simple":   "dammed"
+    },
+    {
+        "BF": "damage",
+        "Past Simple":   "damaged"
+    },
+    {
+        "BF": "dance",
+        "Past Simple":   "danced"
+    },
+    {
+        "BF": "dare",
+        "Past Simple":   "dared"
+    },
+    {
+        "BF": "decay",
+        "Past Simple":   "decayed"
+    },
+    {
+        "BF": "deceive",
+        "Past Simple":   "deceived"
+    },
+    {
+        "BF": "decide",
+        "Past Simple":   "decided"
+    },
+    {
+        "BF": "decorate",
+        "Past Simple":   "decorated"
+    },
+    {
+        "BF": "delay",
+        "Past Simple":   "delayed"
+    },
+    {
+        "BF": "delight",
+        "Past Simple":   "delighted"
+    },
+    {
+        "BF": "deliver",
+        "Past Simple":   "delivered"
+    },
+    {
+        "BF": "depend",
+        "Past Simple":   "depended"
+    },
+    {
+        "BF": "describe",
+        "Past Simple":   "described"
+    },
+    {
+        "BF": "desert",
+        "Past Simple":   "deserted"
+    },
+    {
+        "BF": "deserve",
+        "Past Simple":   "deserved"
+    },
+    {
+        "BF": "destroy",
+        "Past Simple":   "destroyed"
+    },
+    {
+        "BF": "detect",
+        "Past Simple":   "detected"
+    },
+    {
+        "BF": "develop",
+        "Past Simple":   "developed"
+    },
+    {
+        "BF": "disagree",
+        "Past Simple":   "disagreed"
+    },
+    {
+        "BF": "disappear",
+        "Past Simple":   "disappeared"
+    },
+    {
+        "BF": "disapprove",
+        "Past Simple":   "disapproved"
+    },
+    {
+        "BF": "disarm",
+        "Past Simple":   "disarmed"
+    },
+    {
+        "BF": "discover",
+        "Past Simple":   "discovered"
+    },
+    {
+        "BF": "dislike",
+        "Past Simple":   "disliked"
+    },
+    {
+        "BF": "divide",
+        "Past Simple":   "divided"
+    },
+    {
+        "BF": "double",
+        "Past Simple":   "doubled"
+    },
+    {
+        "BF": "doubt",
+        "Past Simple":   "doubted"
+    },
+    {
+        "BF": "drag",
+        "Past Simple":   "dragged"
+    },
+    {
+        "BF": "drain",
+        "Past Simple":   "drained"
+    },
+    {
+        "BF": "dream",
+        "Past Simple":   "dreamed"
+    },
+    {
+        "BF": "dress",
+        "Past Simple":   "dressed"
+    },
+    {
+        "BF": "drip",
+        "Past Simple":   "dripped"
+    },
+    {
+        "BF": "drop",
+        "Past Simple":   "dropped"
+    },
+    {
+        "BF": "drown",
+        "Past Simple":   "drowned"
+    },
+    {
+        "BF": "drum",
+        "Past Simple":   "drummed"
+    },
+    {
+        "BF": "dry",
+        "Past Simple":   "dried"
+    },
+    {
+        "BF": "dust",
+        "Past Simple":   "dusted"
+    },
+    {
+        "BF": "earn",
+        "Past Simple":   "earned"
+    },
+    {
+        "BF": "educate",
+        "Past Simple":   "educated"
+    },
+    {
+        "BF": "embarrass",
+        "Past Simple":   "embarrassed"
+    },
+    {
+        "BF": "employ",
+        "Past Simple":   "employed"
+    },
+    {
+        "BF": "empty",
+        "Past Simple":   "emptied"
+    },
+    {
+        "BF": "encourage",
+        "Past Simple":   "encouraged"
+    },
+    {
+        "BF": "end",
+        "Past Simple":   "ended"
+    },
+    {
+        "BF": "enjoy",
+        "Past Simple":   "enjoyed"
+    },
+    {
+        "BF": "enter",
+        "Past Simple":   "entered"
+    },
+    {
+        "BF": "entertain",
+        "Past Simple":   "entertained"
+    },
+    {
+        "BF": "escape",
+        "Past Simple":   "escaped"
+    },
+    {
+        "BF": "examine",
+        "Past Simple":   "examined"
+    },
+    {
+        "BF": "excite",
+        "Past Simple":   "excited"
+    },
+    {
+        "BF": "excuse",
+        "Past Simple":   "excused"
+    },
+    {
+        "BF": "exercise",
+        "Past Simple":   "exercised"
+    },
+    {
+        "BF": "exist",
+        "Past Simple":   "existed"
+    },
+    {
+        "BF": "expand",
+        "Past Simple":   "expand"
+    },
+    {
+        "BF": "expect",
+        "Past Simple":   "expected"
+    },
+    {
+        "BF": "explain",
+        "Past Simple":   "explained"
+    },
+    {
+        "BF": "explode",
+        "Past Simple":   "exploded"
+    },
+    {
+        "BF": "extend",
+        "Past Simple":   "extended"
+    },
+    {
+        "BF": "face",
+        "Past Simple":   "faced"
+    },
+    {
+        "BF": "fade",
+        "Past Simple":   "faded"
+    },
+    {
+        "BF": "fail",
+        "Past Simple":   "failed"
+    },
+    {
+        "BF": "fancy",
+        "Past Simple":   "fancied"
+    },
+    {
+        "BF": "fasten",
+        "Past Simple":   "fastened"
+    },
+    {
+        "BF": "fax",
+        "Past Simple":   "faxed"
+    },
+    {
+        "BF": "fear",
+        "Past Simple":   "feared"
+    },
+    {
+        "BF": "fence",
+        "Past Simple":   "fenced"
+    },
+    {
+        "BF": "fetch",
+        "Past Simple":   "fetched"
+    },
+    {
+        "BF": "file",
+        "Past Simple":   "filed"
+    },
+    {
+        "BF": "fill",
+        "Past Simple":   "filled"
+    },
+    {
+        "BF": "film",
+        "Past Simple":   "filmed"
+    },
+    {
+        "BF": "fire",
+        "Past Simple":   "fired"
+    },
+    {
+        "BF": "fit",
+        "Past Simple":   "fitted"
+    },
+    {
+        "BF": "fix",
+        "Past Simple":   "fixed"
+    },
+    {
+        "BF": "flap",
+        "Past Simple":   "flapped"
+    },
+    {
+        "BF": "flash",
+        "Past Simple":   "flashed"
+    },
+    {
+        "BF": "float",
+        "Past Simple":   "floated"
+    },
+    {
+        "BF": "flood",
+        "Past Simple":   "flooded"
+    },
+    {
+        "BF": "flow",
+        "Past Simple":   "flowed"
+    },
+    {
+        "BF": "flower",
+        "Past Simple":   "flowered"
+    },
+    {
+        "BF": "fold",
+        "Past Simple":   "folded"
+    },
+    {
+        "BF": "follow",
+        "Past Simple":   "followed"
+    },
+    {
+        "BF": "fool",
+        "Past Simple":   "fooled"
+    },
+    {
+        "BF": "force",
+        "Past Simple":   "forced"
+    },
+    {
+        "BF": "form",
+        "Past Simple":   "formed"
+    },
+    {
+        "BF": "found",
+        "Past Simple":   "founded"
+    },
+    {
+        "BF": "frame",
+        "Past Simple":   "framed"
+    },
+    {
+        "BF": "frighten",
+        "Past Simple":   "frightened"
+    },
+    {
+        "BF": "fry",
+        "Past Simple":   "fried"
+    },
+    {
+        "BF": "gather",
+        "Past Simple":   "gathered"
+    },
+    {
+        "BF": "gaze",
+        "Past Simple":   "gazed"
+    },
+    {
+        "BF": "glow",
+        "Past Simple":   "glowed"
+    },
+    {
+        "BF": "glue",
+        "Past Simple":   "glued"
+    },
+    {
+        "BF": "grab",
+        "Past Simple":   "grabbed"
+    },
+    {
+        "BF": "grate",
+        "Past Simple":   "grated"
+    },
+    {
+        "BF": "grease",
+        "Past Simple":   "greased"
+    },
+    {
+        "BF": "greet",
+        "Past Simple":   "greeted"
+    },
+    {
+        "BF": "grin",
+        "Past Simple":   "grinned"
+    },
+    {
+        "BF": "grip",
+        "Past Simple":   "gripped"
+    },
+    {
+        "BF": "groan",
+        "Past Simple":   "groaned"
+    },
+    {
+        "BF": "guarantee",
+        "Past Simple":   "guaranteed"
+    },
+    {
+        "BF": "guard",
+        "Past Simple":   "guarded"
+    },
+    {
+        "BF": "guess",
+        "Past Simple":   "guessed"
+    },
+    {
+        "BF": "guide",
+        "Past Simple":   "guided"
+    },
+    {
+        "BF": "hammer",
+        "Past Simple":   "hammered"
+    },
+    {
+        "BF": "hand",
+        "Past Simple":   "handed"
+    },
+    {
+        "BF": "handle",
+        "Past Simple":   "handled"
+    },
+    {
+        "BF": "hang",
+        "Past Simple":   "hung"
+    },
+    {
+        "BF": "happen",
+        "Past Simple":   "happened"
+    },
+    {
+        "BF": "harass",
+        "Past Simple":   "harassed"
+    },
+    {
+        "BF": "harm",
+        "Past Simple":   "harmed"
+    },
+    {
+        "BF": "hate",
+        "Past Simple":   "hated"
+    },
+    {
+        "BF": "haunt",
+        "Past Simple":   "haunted"
+    },
+    {
+        "BF": "head",
+        "Past Simple":   "headed"
+    },
+    {
+        "BF": "heal",
+        "Past Simple":   "healed"
+    },
+    {
+        "BF": "heap",
+        "Past Simple":   "heaped"
+    },
+    {
+        "BF": "heat",
+        "Past Simple":   "heated"
+    },
+    {
+        "BF": "help",
+        "Past Simple":   "helped"
+    },
+    {
+        "BF": "hook",
+        "Past Simple":   "hooked"
+    },
+    {
+        "BF": "hop",
+        "Past Simple":   "hopped"
+    },
+    {
+        "BF": "hope",
+        "Past Simple":   "hoped"
+    },
+    {
+        "BF": "hover",
+        "Past Simple":   "hovered"
+    },
+    {
+        "BF": "hug",
+        "Past Simple":   "hugged"
+    },
+    {
+        "BF": "hum",
+        "Past Simple":   "hummed"
+    },
+    {
+        "BF": "hunt",
+        "Past Simple":   "hunted"
+    },
+    {
+        "BF": "hurry",
+        "Past Simple":   "hurried"
+    },
+    {
+        "BF": "identify",
+        "Past Simple":   "identified"
+    },
+    {
+        "BF": "ignore",
+        "Past Simple":   "ignored"
+    },
+    {
+        "BF": "imagine",
+        "Past Simple":   "imagined"
+    },
+    {
+        "BF": "impress",
+        "Past Simple":   "impressed"
+    },
+    {
+        "BF": "improve",
+        "Past Simple":   "improved"
+    },
+    {
+        "BF": "include",
+        "Past Simple":   "included"
+    },
+    {
+        "BF": "increase",
+        "Past Simple":   "increased"
+    },
+    {
+        "BF": "influence",
+        "Past Simple":   "influenced"
+    },
+    {
+        "BF": "inform",
+        "Past Simple":   "informed"
+    },
+    {
+        "BF": "inject",
+        "Past Simple":   "injected"
+    },
+    {
+        "BF": "injure",
+        "Past Simple":   "injured"
+    },
+    {
+        "BF": "instruct",
+        "Past Simple":   "instructed"
+    },
+    {
+        "BF": "intend",
+        "Past Simple":   "intended"
+    },
+    {
+        "BF": "interest",
+        "Past Simple":   "interested"
+    },
+    {
+        "BF": "interfere",
+        "Past Simple":   "interfered"
+    },
+    {
+        "BF": "interrupt",
+        "Past Simple":   "interrupted"
+    },
+    {
+        "BF": "introduce",
+        "Past Simple":   "introduced"
+    },
+    {
+        "BF": "invent",
+        "Past Simple":   "invented"
+    },
+    {
+        "BF": "invite",
+        "Past Simple":   "invited"
+    },
+    {
+        "BF": "irritate",
+        "Past Simple":   "irritated"
+    },
+    {
+        "BF": "itch",
+        "Past Simple":   "itched"
+    },
+    {
+        "BF": "jail",
+        "Past Simple":   "jailed"
+    },
+    {
+        "BF": "jam",
+        "Past Simple":   "jammed"
+    },
+    {
+        "BF": "jog",
+        "Past Simple":   "jogged"
+    },
+    {
+        "BF": "join",
+        "Past Simple":   "joined"
+    },
+    {
+        "BF": "joke",
+        "Past Simple":   "joked"
+    },
+    {
+        "BF": "judge",
+        "Past Simple":   "judged"
+    },
+    {
+        "BF": "juggle",
+        "Past Simple":   "juggled"
+    },
+    {
+        "BF": "jump",
+        "Past Simple":   "jumped"
+    },
+    {
+        "BF": "kick",
+        "Past Simple":   "kicked"
+    },
+    {
+        "BF": "kill",
+        "Past Simple":   "killed"
+    },
+    {
+        "BF": "kiss",
+        "Past Simple":   "kissed"
+    },
+    {
+        "BF": "kneel",
+        "Past Simple":   "knelt"
+    },
+    {
+        "BF": "knit",
+        "Past Simple":   "knitted"
+    },
+    {
+        "BF": "knock",
+        "Past Simple":   "knocked"
+    },
+    {
+        "BF": "knot",
+        "Past Simple":   "knotted"
+    },
+    {
+        "BF": "label",
+        "Past Simple":   "labelled"
+    },
+    {
+        "BF": "land",
+        "Past Simple":   "landed"
+    },
+    {
+        "BF": "last",
+        "Past Simple":   "lasted"
+    },
+    {
+        "BF": "laugh",
+        "Past Simple":   "laughed"
+    },
+    {
+        "BF": "launch",
+        "Past Simple":   "launched"
+    },
+    {
+        "BF": "learn",
+        "Past Simple":   "learned"
+    },
+    {
+        "BF": "level",
+        "Past Simple":   "levelled"
+    },
+    {
+        "BF": "license",
+        "Past Simple":   "licensed"
+    },
+    {
+        "BF": "lick",
+        "Past Simple":   "licked"
+    },
+    {
+        "BF": "lie",
+        "Past Simple":   "lied"
+    },
+    {
+        "BF": "lighten",
+        "Past Simple":   "lightened"
+    },
+    {
+        "BF": "like",
+        "Past Simple":   "liked"
+    },
+    {
+        "BF": "list",
+        "Past Simple":   "listed"
+    },
+    {
+        "BF": "listen",
+        "Past Simple":   "listened"
+    },
+    {
+        "BF": "live",
+        "Past Simple":   "lived"
+    },
+    {
+        "BF": "load",
+        "Past Simple":   "loaded"
+    },
+    {
+        "BF": "lock",
+        "Past Simple":   "locked"
+    },
+    {
+        "BF": "long",
+        "Past Simple":   "longed"
+    },
+    {
+        "BF": "look",
+        "Past Simple":   "look"
+    },
+    {
+        "BF": "love",
+        "Past Simple":   "loved"
+    },
+    {
+        "BF": "man",
+        "Past Simple":   "manned"
+    },
+    {
+        "BF": "manage",
+        "Past Simple":   "managed"
+    },
+    {
+        "BF": "march",
+        "Past Simple":   "marched"
+    },
+    {
+        "BF": "mark",
+        "Past Simple":   "marked"
+    },
+    {
+        "BF": "marry",
+        "Past Simple":   "married"
+    },
+    {
+        "BF": "match",
+        "Past Simple":   "matched"
+    },
+    {
+        "BF": "mate",
+        "Past Simple":   "mated"
+    },
+    {
+        "BF": "matter",
+        "Past Simple":   "mattered"
+    },
+    {
+        "BF": "measure",
+        "Past Simple":   "measured"
+    },
+    {
+        "BF": "meddle",
+        "Past Simple":   "meddled"
+    },
+    {
+        "BF": "melt",
+        "Past Simple":   "melted"
+    },
+    {
+        "BF": "memorise",
+        "Past Simple":   "memorised"
+    },
+    {
+        "BF": "mend",
+        "Past Simple":   "mended"
+    },
+    {
+        "BF": "mess up",
+        "Past Simple":   "messed up"
+    },
+    {
+        "BF": "milk",
+        "Past Simple":   "milked"
+    },
+    {
+        "BF": "mine",
+        "Past Simple":   "mined"
+    },
+    {
+        "BF": "miss",
+        "Past Simple":   "missed"
+    },
+    {
+        "BF": "mix",
+        "Past Simple":   "mixed"
+    },
+    {
+        "BF": "moan",
+        "Past Simple":   "moaned"
+    },
+    {
+        "BF": "moor",
+        "Past Simple":   "moored"
+    },
+    {
+        "BF": "mourn",
+        "Past Simple":   "mourned"
+    },
+    {
+        "BF": "move",
+        "Past Simple":   "moved"
+    },
+    {
+        "BF": "muddle",
+        "Past Simple":   "muddled"
+    },
+    {
+        "BF": "mug",
+        "Past Simple":   "mugged"
+    },
+    {
+        "BF": "multiply",
+        "Past Simple":   "multiplied"
+    },
+    {
+        "BF": "murder",
+        "Past Simple":   "murdered"
+    },
+    {
+        "BF": "nail",
+        "Past Simple":   "nailed"
+    },
+    {
+        "BF": "name",
+        "Past Simple":   "named"
+    },
+    {
+        "BF": "need",
+        "Past Simple":   "needed"
+    },
+    {
+        "BF": "nest",
+        "Past Simple":   "nested"
+    },
+    {
+        "BF": "nod",
+        "Past Simple":   "nodded"
+    },
+    {
+        "BF": "note",
+        "Past Simple":   "noted"
+    },
+    {
+        "BF": "notice",
+        "Past Simple":   "noticed"
+    },
+    {
+        "BF": "number",
+        "Past Simple":   "numbered"
+    },
+    {
+        "BF": "obey",
+        "Past Simple":   "obeyed"
+    },
+    {
+        "BF": "object",
+        "Past Simple":   "objected"
+    },
+    {
+        "BF": "observe",
+        "Past Simple":   "observed"
+    },
+    {
+        "BF": "obtain",
+        "Past Simple":   "obtained"
+    },
+    {
+        "BF": "occur",
+        "Past Simple":   "occurred"
+    },
+    {
+        "BF": "offend",
+        "Past Simple":   "offended"
+    },
+    {
+        "BF": "offer",
+        "Past Simple":   "offered"
+    },
+    {
+        "BF": "open",
+        "Past Simple":   "opened"
+    },
+    {
+        "BF": "order",
+        "Past Simple":   "ordered"
+    },
+    {
+        "BF": "overflow",
+        "Past Simple":   "overflowed"
+    },
+    {
+        "BF": "owe",
+        "Past Simple":   "owed"
+    },
+    {
+        "BF": "own",
+        "Past Simple":   "owned"
+    },
+    {
+        "BF": "pack",
+        "Past Simple":   "packed"
+    },
+    {
+        "BF": "paddle",
+        "Past Simple":   "paddled"
+    },
+    {
+        "BF": "paint",
+        "Past Simple":   "painted"
+    },
+    {
+        "BF": "park",
+        "Past Simple":   "parked"
+    },
+    {
+        "BF": "part",
+        "Past Simple":   "parted"
+    },
+    {
+        "BF": "pass",
+        "Past Simple":   "passed"
+    },
+    {
+        "BF": "paste",
+        "Past Simple":   "pasted"
+    },
+    {
+        "BF": "pat",
+        "Past Simple":   "patted"
+    },
+    {
+        "BF": "pause",
+        "Past Simple":   "paused"
+    },
+    {
+        "BF": "peck",
+        "Past Simple":   "pecked"
+    },
+    {
+        "BF": "pedal",
+        "Past Simple":   "pedalled"
+    },
+    {
+        "BF": "peel",
+        "Past Simple":   "peeled"
+    },
+    {
+        "BF": "peep",
+        "Past Simple":   "peeped"
+    },
+    {
+        "BF": "perform",
+        "Past Simple":   "performed"
+    },
+    {
+        "BF": "permit",
+        "Past Simple":   "permitted"
+    },
+    {
+        "BF": "phone",
+        "Past Simple":   "phoned"
+    },
+    {
+        "BF": "pick",
+        "Past Simple":   "picked"
+    },
+    {
+        "BF": "pinch",
+        "Past Simple":   "pinched"
+    },
+    {
+        "BF": "pine",
+        "Past Simple":   "pined"
+    },
+    {
+        "BF": "place",
+        "Past Simple":   "placed"
+    },
+    {
+        "BF": "plan",
+        "Past Simple":   "planned"
+    },
+    {
+        "BF": "plant",
+        "Past Simple":   "planted"
+    },
+    {
+        "BF": "play",
+        "Past Simple":   "played"
+    },
+    {
+        "BF": "please",
+        "Past Simple":   "pleased"
+    },
+    {
+        "BF": "plug",
+        "Past Simple":   "plugged"
+    },
+    {
+        "BF": "point",
+        "Past Simple":   "pointed"
+    },
+    {
+        "BF": "poke",
+        "Past Simple":   "poked"
+    },
+    {
+        "BF": "polish",
+        "Past Simple":   "polished"
+    },
+    {
+        "BF": "pop",
+        "Past Simple":   "popped"
+    },
+    {
+        "BF": "possess",
+        "Past Simple":   "possessed"
+    },
+    {
+        "BF": "post",
+        "Past Simple":   "posted"
+    },
+    {
+        "BF": "pour",
+        "Past Simple":   "poured"
+    },
+    {
+        "BF": "practise",
+        "Past Simple":   "practised"
+    },
+    {
+        "BF": "pray",
+        "Past Simple":   "prayed"
+    },
+    {
+        "BF": "preach",
+        "Past Simple":   "preached"
+    },
+    {
+        "BF": "precede",
+        "Past Simple":   "preceded"
+    },
+    {
+        "BF": "prefer",
+        "Past Simple":   "preferred"
+    },
+    {
+        "BF": "prepare",
+        "Past Simple":   "prepared"
+    },
+    {
+        "BF": "present",
+        "Past Simple":   " "
+    },
+    {
+        "BF": "preserve",
+        "Past Simple":   "preserved"
+    },
+    {
+        "BF": "press",
+        "Past Simple":   "pressed"
+    },
+    {
+        "BF": "pretend",
+        "Past Simple":   "pretended"
+    },
+    {
+        "BF": "prevent",
+        "Past Simple":   "prevented"
+    },
+    {
+        "BF": "prick",
+        "Past Simple":   "pricked"
+    },
+    {
+        "BF": "print",
+        "Past Simple":   "printed"
+    },
+    {
+        "BF": "produce",
+        "Past Simple":   "produced"
+    },
+    {
+        "BF": "program",
+        "Past Simple":   "programmed"
+    },
+    {
+        "BF": "promise",
+        "Past Simple":   "promised"
+    },
+    {
+        "BF": "protect",
+        "Past Simple":   "protected"
+    },
+    {
+        "BF": "provide",
+        "Past Simple":   "provided"
+    },
+    {
+        "BF": "pull",
+        "Past Simple":   "pulled"
+    },
+    {
+        "BF": "pump",
+        "Past Simple":   "pumped"
+    },
+    {
+        "BF": "punch",
+        "Past Simple":   "punched"
+    },
+    {
+        "BF": "puncture",
+        "Past Simple":   "punctured"
+    },
+    {
+        "BF": "punish",
+        "Past Simple":   "punished"
+    },
+    {
+        "BF": "push",
+        "Past Simple":   "pushed"
+    },
+    {
+        "BF": "question",
+        "Past Simple":   "questioned"
+    },
+    {
+        "BF": "queue",
+        "Past Simple":   "questioned"
+    },
+    {
+        "BF": "race",
+        "Past Simple":   "raced"
+    },
+    {
+        "BF": "radiate",
+        "Past Simple":   "radiated"
+    },
+    {
+        "BF": "rain",
+        "Past Simple":   "rained"
+    },
+    {
+        "BF": "raise",
+        "Past Simple":   "raised"
+    },
+    {
+        "BF": "reach",
+        "Past Simple":   "reached"
+    },
+    {
+        "BF": "realise",
+        "Past Simple":   "realised"
+    },
+    {
+        "BF": "receive",
+        "Past Simple":   "received"
+    },
+    {
+        "BF": "recognise",
+        "Past Simple":   "recognised"
+    },
+    {
+        "BF": "record",
+        "Past Simple":   "recorded"
+    },
+    {
+        "BF": "reduce",
+        "Past Simple":   "reduced"
+    },
+    {
+        "BF": "reflect",
+        "Past Simple":   "reflected"
+    },
+    {
+        "BF": "refuse",
+        "Past Simple":   "refused"
+    },
+    {
+        "BF": "regret",
+        "Past Simple":   "regretted"
+    },
+    {
+        "BF": "reign",
+        "Past Simple":   "reigned"
+    },
+    {
+        "BF": "reject",
+        "Past Simple":   "rejected"
+    },
+    {
+        "BF": "rejoice",
+        "Past Simple":   "rejoiced"
+    },
+    {
+        "BF": "relax",
+        "Past Simple":   "relaxed"
+    },
+    {
+        "BF": "release",
+        "Past Simple":   "released"
+    },
+    {
+        "BF": "rely",
+        "Past Simple":   "relied"
+    },
+    {
+        "BF": "remain",
+        "Past Simple":   "remained"
+    },
+    {
+        "BF": "remember",
+        "Past Simple":   "remembered"
+    },
+    {
+        "BF": "remind",
+        "Past Simple":   "reminded"
+    },
+    {
+        "BF": "remove",
+        "Past Simple":   "removed"
+    },
+    {
+        "BF": "repair",
+        "Past Simple":   "repaired"
+    },
+    {
+        "BF": "repeat",
+        "Past Simple":   "repeated"
+    },
+    {
+        "BF": "replace",
+        "Past Simple":   "replaced"
+    },
+    {
+        "BF": "reply",
+        "Past Simple":   "replied"
+    },
+    {
+        "BF": "report",
+        "Past Simple":   "reported"
+    },
+    {
+        "BF": "reproduce",
+        "Past Simple":   "reproduced"
+    },
+    {
+        "BF": "request",
+        "Past Simple":   "requested"
+    },
+    {
+        "BF": "rescue",
+        "Past Simple":   "rescued"
+    },
+    {
+        "BF": "retire",
+        "Past Simple":   "retired"
+    },
+    {
+        "BF": "return",
+        "Past Simple":   "returned"
+    },
+    {
+        "BF": "rhyme",
+        "Past Simple":   "rhyme"
+    },
+    {
+        "BF": "rinse",
+        "Past Simple":   "rinsed"
+    },
+    {
+        "BF": "risk",
+        "Past Simple":   "risked"
+    },
+    {
+        "BF": "rob",
+        "Past Simple":   "robbed"
+    },
+    {
+        "BF": "rock",
+        "Past Simple":   "rocked"
+    },
+    {
+        "BF": "roll",
+        "Past Simple":   "rolled"
+    },
+    {
+        "BF": "rot",
+        "Past Simple":   "rotted"
+    },
+    {
+        "BF": "rub",
+        "Past Simple":   "rubbed"
+    },
+    {
+        "BF": "ruin",
+        "Past Simple":   "ruined"
+    },
+    {
+        "BF": "rule",
+        "Past Simple":   "ruled"
+    },
+    {
+        "BF": "rush",
+        "Past Simple":   "rushed"
+    },
+    {
+        "BF": "sack",
+        "Past Simple":   "sacked"
+    },
+    {
+        "BF": "sail",
+        "Past Simple":   "sailed"
+    },
+    {
+        "BF": "satisfy",
+        "Past Simple":   "satisfied"
+    },
+    {
+        "BF": "save",
+        "Past Simple":   "saved"
+    },
+    {
+        "BF": "saw",
+        "Past Simple":   "sawed"
+    },
+    {
+        "BF": "scare",
+        "Past Simple":   "scared"
+    },
+    {
+        "BF": "scatter",
+        "Past Simple":   "scattered"
+    },
+    {
+        "BF": "scold",
+        "Past Simple":   "scolded"
+    },
+    {
+        "BF": "scorch",
+        "Past Simple":   "scorched"
+    },
+    {
+        "BF": "scrape",
+        "Past Simple":   "scraped"
+    },
+    {
+        "BF": "scratch",
+        "Past Simple":   "scratched"
+    },
+    {
+        "BF": "scream",
+        "Past Simple":   "screamed"
+    },
+    {
+        "BF": "screw",
+        "Past Simple":   "screwed"
+    },
+    {
+        "BF": "scribble",
+        "Past Simple":   "scribbled"
+    },
+    {
+        "BF": "scrub",
+        "Past Simple":   "scrubbed"
+    },
+    {
+        "BF": "seal",
+        "Past Simple":   "sealed"
+    },
+    {
+        "BF": "search",
+        "Past Simple":   "searched"
+    },
+    {
+        "BF": "separate",
+        "Past Simple":   "separate"
+    },
+    {
+        "BF": "serve",
+        "Past Simple":   "served"
+    },
+    {
+        "BF": "settle",
+        "Past Simple":   "settled"
+    },
+    {
+        "BF": "shade",
+        "Past Simple":   "shaded"
+    },
+    {
+        "BF": "share",
+        "Past Simple":   "shared"
+    },
+    {
+        "BF": "shave",
+        "Past Simple":   "shaved"
+    },
+    {
+        "BF": "shelter",
+        "Past Simple":   "sheltered"
+    },
+    {
+        "BF": "shiver",
+        "Past Simple":   "shivered"
+    },
+    {
+        "BF": "shock",
+        "Past Simple":   "shocked"
+    },
+    {
+        "BF": "shop",
+        "Past Simple":   "shopped"
+    },
+    {
+        "BF": "shrug",
+        "Past Simple":   "shrugged"
+    },
+    {
+        "BF": "sigh",
+        "Past Simple":   "sighed"
+    },
+    {
+        "BF": "sign",
+        "Past Simple":   "signed"
+    },
+    {
+        "BF": "signal",
+        "Past Simple":   "signalled"
+    },
+    {
+        "BF": "sin",
+        "Past Simple":   "sinned"
+    },
+    {
+        "BF": "sip",
+        "Past Simple":   "sipped"
+    },
+    {
+        "BF": "ski",
+        "Past Simple":   "skied"
+    },
+    {
+        "BF": "skip",
+        "Past Simple":   "skipped"
+    },
+    {
+        "BF": "slap",
+        "Past Simple":   "slapped"
+    },
+    {
+        "BF": "slip",
+        "Past Simple":   "slipped"
+    },
+    {
+        "BF": "slow",
+        "Past Simple":   "slowed"
+    },
+    {
+        "BF": "smash",
+        "Past Simple":   "smashed"
+    },
+    {
+        "BF": "smell",
+        "Past Simple":   "smelled"
+    },
+    {
+        "BF": "smile",
+        "Past Simple":   "smiled"
+    },
+    {
+        "BF": "smoke",
+        "Past Simple":   "smoked"
+    },
+    {
+        "BF": "snatch",
+        "Past Simple":   "snatched"
+    },
+    {
+        "BF": "sneeze",
+        "Past Simple":   "sneezed"
+    },
+    {
+        "BF": "sniff",
+        "Past Simple":   "sniffed"
+    },
+    {
+        "BF": "snore",
+        "Past Simple":   "snored"
+    },
+    {
+        "BF": "snow",
+        "Past Simple":   "snowed"
+    },
+    {
+        "BF": "soak",
+        "Past Simple":   "soaked"
+    },
+    {
+        "BF": "soothe",
+        "Past Simple":   "soothed"
+    },
+    {
+        "BF": "sound",
+        "Past Simple":   "sounded"
+    },
+    {
+        "BF": "spare",
+        "Past Simple":   "spared"
+    },
+    {
+        "BF": "spark",
+        "Past Simple":   "sparked"
+    },
+    {
+        "BF": "sparkle",
+        "Past Simple":   "sparkled"
+    },
+    {
+        "BF": "spell",
+        "Past Simple":   "spelled"
+    },
+    {
+        "BF": "spill",
+        "Past Simple":   "spilled"
+    },
+    {
+        "BF": "spoil",
+        "Past Simple":   "spoiled"
+    },
+    {
+        "BF": "spot",
+        "Past Simple":   "spotted"
+    },
+    {
+        "BF": "spray",
+        "Past Simple":   "sprayed"
+    },
+    {
+        "BF": "sprout",
+        "Past Simple":   "sprouted"
+    },
+    {
+        "BF": "squash",
+        "Past Simple":   "squashed"
+    },
+    {
+        "BF": "squeak",
+        "Past Simple":   "squeaked"
+    },
+    {
+        "BF": "squeal",
+        "Past Simple":   "squealed"
+    },
+    {
+        "BF": "squeeze",
+        "Past Simple":   "squeezed"
+    },
+    {
+        "BF": "stain",
+        "Past Simple":   "stained"
+    },
+    {
+        "BF": "stamp",
+        "Past Simple":   "stamped"
+    },
+    {
+        "BF": "stare",
+        "Past Simple":   "stared"
+    },
+    {
+        "BF": "start",
+        "Past Simple":   "started"
+    },
+    {
+        "BF": "stay",
+        "Past Simple":   "stayed"
+    },
+    {
+        "BF": "steer",
+        "Past Simple":   "steered"
+    },
+    {
+        "BF": "step",
+        "Past Simple":   "stepped"
+    },
+    {
+        "BF": "stir",
+        "Past Simple":   "stirred"
+    },
+    {
+        "BF": "stitch",
+        "Past Simple":   "stitched"
+    },
+    {
+        "BF": "stop",
+        "Past Simple":   "stopped"
+    },
+    {
+        "BF": "store",
+        "Past Simple":   "stored"
+    },
+    {
+        "BF": "strap",
+        "Past Simple":   "strapped"
+    },
+    {
+        "BF": "strengthen",
+        "Past Simple":   "strengthened"
+    },
+    {
+        "BF": "stretch",
+        "Past Simple":   "stretched"
+    },
+    {
+        "BF": "strip",
+        "Past Simple":   "stripped"
+    },
+    {
+        "BF": "stroke",
+        "Past Simple":   "stroked"
+    },
+    {
+        "BF": "stuff",
+        "Past Simple":   "stuffed"
+    },
+    {
+        "BF": "subtract",
+        "Past Simple":   "subtracted"
+    },
+    {
+        "BF": "succeed",
+        "Past Simple":   "succeeded"
+    },
+    {
+        "BF": "suck",
+        "Past Simple":   "sucked"
+    },
+    {
+        "BF": "suffer",
+        "Past Simple":   "suffered"
+    },
+    {
+        "BF": "suggest",
+        "Past Simple":   "suggested"
+    },
+    {
+        "BF": "suit",
+        "Past Simple":   "suited"
+    },
+    {
+        "BF": "supply",
+        "Past Simple":   "supplied"
+    },
+    {
+        "BF": "support",
+        "Past Simple":   "supported"
+    },
+    {
+        "BF": "suppose",
+        "Past Simple":   "supposed"
+    },
+    {
+        "BF": "surprise",
+        "Past Simple":   "surprised"
+    },
+    {
+        "BF": "surround",
+        "Past Simple":   "surrounded"
+    },
+    {
+        "BF": "suspect",
+        "Past Simple":   "suspected"
+    },
+    {
+        "BF": "suspend",
+        "Past Simple":   "suspended"
+    },
+    {
+        "BF": "switch",
+        "Past Simple":   "switched"
+    },
+    {
+        "BF": "talk",
+        "Past Simple":   "talked"
+    },
+    {
+        "BF": "tame",
+        "Past Simple":   "tamed"
+    },
+    {
+        "BF": "tap",
+        "Past Simple":   "tapped"
+    },
+    {
+        "BF": "taste",
+        "Past Simple":   "tasted"
+    },
+    {
+        "BF": "tease",
+        "Past Simple":   "teased"
+    },
+    {
+        "BF": "telephone",
+        "Past Simple":   "telephoned"
+    },
+    {
+        "BF": "tempt",
+        "Past Simple":   "tempted"
+    },
+    {
+        "BF": "terrify",
+        "Past Simple":   "terrified"
+    },
+    {
+        "BF": "test",
+        "Past Simple":   "tested"
+    },
+    {
+        "BF": "thank",
+        "Past Simple":   "thanked"
+    },
+    {
+        "BF": "thaw",
+        "Past Simple":   "thawed"
+    },
+    {
+        "BF": "tick",
+        "Past Simple":   "ticked"
+    },
+    {
+        "BF": "tickle",
+        "Past Simple":   "tickled"
+    },
+    {
+        "BF": "tie",
+        "Past Simple":   "tied"
+    },
+    {
+        "BF": "time",
+        "Past Simple":   "timed"
+    },
+    {
+        "BF": "tip",
+        "Past Simple":   "tipped"
+    },
+    {
+        "BF": "tire",
+        "Past Simple":   "tired"
+    },
+    {
+        "BF": "touch",
+        "Past Simple":   "touched"
+    },
+    {
+        "BF": "tour",
+        "Past Simple":   "toured"
+    },
+    {
+        "BF": "tow",
+        "Past Simple":   "towed"
+    },
+    {
+        "BF": "trace",
+        "Past Simple":   "traced"
+    },
+    {
+        "BF": "trade",
+        "Past Simple":   "traded"
+    },
+    {
+        "BF": "train",
+        "Past Simple":   "trained"
+    },
+    {
+        "BF": "transport",
+        "Past Simple":   "transported"
+    },
+    {
+        "BF": "trap",
+        "Past Simple":   "trapped"
+    },
+    {
+        "BF": "travel",
+        "Past Simple":   "travelled"
+    },
+    {
+        "BF": "treat",
+        "Past Simple":   "treated"
+    },
+    {
+        "BF": "tremble",
+        "Past Simple":   "trembled"
+    },
+    {
+        "BF": "trick",
+        "Past Simple":   "tricked"
+    },
+    {
+        "BF": "trip",
+        "Past Simple":   "tripped"
+    },
+    {
+        "BF": "trot",
+        "Past Simple":   "trotted"
+    },
+    {
+        "BF": "trouble",
+        "Past Simple":   "troubled"
+    },
+    {
+        "BF": "trust",
+        "Past Simple":   "trusted"
+    },
+    {
+        "BF": "try",
+        "Past Simple":   "tried"
+    },
+    {
+        "BF": "tug",
+        "Past Simple":   "tugged"
+    },
+    {
+        "BF": "tumble",
+        "Past Simple":   "tumbled"
+    },
+    {
+        "BF": "turn",
+        "Past Simple":   "turned"
+    },
+    {
+        "BF": "twist",
+        "Past Simple":   "twisted"
+    },
+    {
+        "BF": "type",
+        "Past Simple":   "typed"
+    },
+    {
+        "BF": "undress",
+        "Past Simple":   "undressed"
+    },
+    {
+        "BF": "unfasten",
+        "Past Simple":   "unfastened"
+    },
+    {
+        "BF": "unite",
+        "Past Simple":   "united"
+    },
+    {
+        "BF": "unlock",
+        "Past Simple":   "unlocked"
+    },
+    {
+        "BF": "unpack",
+        "Past Simple":   "unpacked"
+    },
+    {
+        "BF": "untidy",
+        "Past Simple":   "untidied"
+    },
+    {
+        "BF": "use",
+        "Past Simple":   "used"
+    },
+    {
+        "BF": "vanish",
+        "Past Simple":   "vanished"
+    },
+    {
+        "BF": "visit",
+        "Past Simple":   "visited"
+    },
+    {
+        "BF": "wail",
+        "Past Simple":   "wailed"
+    },
+    {
+        "BF": "wait",
+        "Past Simple":   "waited"
+    },
+    {
+        "BF": "walk",
+        "Past Simple":   "walked"
+    },
+    {
+        "BF": "wander",
+        "Past Simple":   "wandered"
+    },
+    {
+        "BF": "want",
+        "Past Simple":   "wanted"
+    },
+    {
+        "BF": "warm",
+        "Past Simple":   "warmed"
+    },
+    {
+        "BF": "warn",
+        "Past Simple":   "warned"
+    },
+    {
+        "BF": "wash",
+        "Past Simple":   "washed"
+    },
+    {
+        "BF": "waste",
+        "Past Simple":   "wasted"
+    },
+    {
+        "BF": "watch",
+        "Past Simple":   "watched"
+    },
+    {
+        "BF": "water",
+        "Past Simple":   "watered"
+    },
+    {
+        "BF": "wave",
+        "Past Simple":   "waved"
+    },
+    {
+        "BF": "weigh",
+        "Past Simple":   "weighed"
+    },
+    {
+        "BF": "welcome",
+        "Past Simple":   "welcomed"
+    },
+    {
+        "BF": "whine",
+        "Past Simple":   "whined"
+    },
+    {
+        "BF": "whip",
+        "Past Simple":   "whipped"
+    },
+    {
+        "BF": "whirl",
+        "Past Simple":   "whirled"
+    },
+    {
+        "BF": "whisper",
+        "Past Simple":   "whispered"
+    },
+    {
+        "BF": "whistle",
+        "Past Simple":   "whistled"
+    },
+    {
+        "BF": "wink",
+        "Past Simple":   "winked"
+    },
+    {
+        "BF": "wipe",
+        "Past Simple":   "wiped"
+    },
+    {
+        "BF": "wish",
+        "Past Simple":   "wished"
+    },
+    {
+        "BF": "wobble",
+        "Past Simple":   "wobbled"
+    },
+    {
+        "BF": "wonder",
+        "Past Simple":   "wondered"
+    },
+    {
+        "BF": "work",
+        "Past Simple":   "worked"
+    },
+    {
+        "BF": "worry",
+        "Past Simple":   "worried"
+    },
+    {
+        "BF": "wrap",
+        "Past Simple":   "wrapped"
+    },
+    {
+        "BF": "wreck",
+        "Past Simple":   "wrecked"
+    },
+    {
+        "BF": "wrestle",
+        "Past Simple":   "wrestled"
+    },
+    {
+        "BF": "wriggle",
+        "Past Simple":   "wriggled"
+    },
+    {
+        "BF": "x-ray",
+        "Past Simple":   "x-rayed"
+    },
+    {
+        "BF": "yawn",
+        "Past Simple":   "yawned"
+    },
+    {
+        "BF": "yell",
+        "Past Simple":   "yelled"
+    },
+    {
+        "BF": "zip",
+        "Past Simple":   "zipped"
+    },
+    {
+        "BF": "zoom",
+        "Past Simple":   "zoomed"
+    },
+    {
+        "BF": "abide",
+        "Past Simple":  "abode/abided",
+        "Past participle":  "abode/abided/abidden",
+        "Third person singular":  "abides",
+        "Present participle gerund":  "abiding"
+    },
+    {
+        "BF": "aby/abey",
+        "Past Simple":  "abought",
+        "Past participle":  "abought",
+        "Third person singular":  "abys/abeys",
+        "Present participle gerund":  "abying/abeying"
+    },
+    {
+        "BF": "alight",
+        "Past Simple":  "alit/alighted",
+        "Past participle":  "alit/alighted",
+        "Third person singular":  "alights",
+        "Present participle gerund":  "alighting"
+    },
+    {
+        "BF": "arise",
+        "Past Simple":  "arose",
+        "Past participle":  "arisen",
+        "Third person singular":  "arises",
+        "Present participle gerund":  "arising"
+    },
+    {
+        "BF": "awake",
+        "Past Simple":  "awoke",
+        "Past participle":  "awoken",
+        "Third person singular":  "awakes",
+        "Present participle gerund":  "awaking"
+    },
+    {
+        "BF": "backbite",
+        "Past Simple":  "backbit",
+        "Past participle":  "backbitten",
+        "Third person singular":  "backbites",
+        "Present participle gerund":  "backbiting"
+    },
+    {
+        "BF": "backfit",
+        "Past Simple":  "backfit",
+        "Past participle":  "backfit",
+        "Third person singular":  "backfits",
+        "Present participle gerund":  "backfitting"
+    },
+    {
+        "BF": "backlight",
+        "Past Simple":  "backlit",
+        "Past participle":  "backlit",
+        "Third person singular":  "backlights",
+        "Present participle gerund":  "backlighting"
+    },
+    {
+        "BF": "backslide",
+        "Past Simple":  "backslid",
+        "Past participle":  "backslid/backslidden",
+        "Third person singular":  "backslides",
+        "Present participle gerund":  "backsliding"
+    },
+    {
+        "BF": "be",
+        "Past Simple":  "was/were",
+        "Past participle":  "been",
+        "Third person singular":  "is",
+        "Present participle gerund":  "being"
+    },
+    {
+        "BF": "bear",
+        "Past Simple":  "bore",
+        "Past participle":  "born/borne",
+        "Third person singular":  "bears",
+        "Present participle gerund":  "bearing"
+    },
+    {
+        "BF": "beat",
+        "Past Simple":  "beat",
+        "Past participle":  "beaten",
+        "Third person singular":  "beats",
+        "Present participle gerund":  "beating"
+    },
+    {
+        "BF": "become",
+        "Past Simple":  "became",
+        "Past participle":  "become",
+        "Third person singular":  "becomes",
+        "Present participle gerund":  "becoming"
+    },
+    {
+        "BF": "bedight",
+        "Past Simple":  "bedight/bedighted",
+        "Past participle":  "bedight/bedighted",
+        "Third person singular":  "bedights",
+        "Present participle gerund":  "bedighting"
+    },
+    {
+        "BF": "befall",
+        "Past Simple":  "befell",
+        "Past participle":  "befallen",
+        "Third person singular":  "befalls",
+        "Present participle gerund":  "befalling"
+    },
+    {
+        "BF": "beget",
+        "Past Simple":  "begot/begat",
+        "Past participle":  "begotten",
+        "Third person singular":  "begets",
+        "Present participle gerund":  "begetting"
+    },
+    {
+        "BF": "begin",
+        "Past Simple":  "began",
+        "Past participle":  "begun",
+        "Third person singular":  "begins",
+        "Present participle gerund":  "beginning"
+    },
+    {
+        "BF": "begird",
+        "Past Simple":  "begirt/begirded",
+        "Past participle":  "begirt",
+        "Third person singular":  "begirds",
+        "Present participle gerund":  "begirding"
+    },
+    {
+        "BF": "behight",
+        "Past Simple":  "behight",
+        "Past participle":  "behight/behoten",
+        "Third person singular":  "behights",
+        "Present participle gerund":  "behighting"
+    },
+    {
+        "BF": "behold",
+        "Past Simple":  "beheld",
+        "Past participle":  "beheld",
+        "Third person singular":  "beholds",
+        "Present participle gerund":  "beholding"
+    },
+    {
+        "BF": "belay",
+        "Past Simple":  "belaid/belayed",
+        "Past participle":  "belaid/belayed",
+        "Third person singular":  "belays",
+        "Present participle gerund":  "belaying"
+    },
+    {
+        "BF": "bend",
+        "Past Simple":  "bent",
+        "Past participle":  "bent",
+        "Third person singular":  "bends",
+        "Present participle gerund":  "bending"
+    },
+    {
+        "BF": "bereave",
+        "Past Simple":  "bereft",
+        "Past participle":  "bereft/bereaved",
+        "Third person singular":  "bereaves",
+        "Present participle gerund":  "bereaving"
+    },
+    {
+        "BF": "beseech",
+        "Past Simple":  "besought/beseeched",
+        "Past participle":  "besought/beseeched",
+        "Third person singular":  "beseeches",
+        "Present participle gerund":  "beseeching"
+    },
+    {
+        "BF": "beset",
+        "Past Simple":  "beset",
+        "Past participle":  "beset",
+        "Third person singular":  "besets",
+        "Present participle gerund":  "besetting"
+    },
+    {
+        "BF": "bespeak",
+        "Past Simple":  "bespoke",
+        "Past participle":  "bespoken",
+        "Third person singular":  "bespeaks",
+        "Present participle gerund":  "bespeaking"
+    },
+    {
+        "BF": "bestrew",
+        "Past Simple":  "bestrewed",
+        "Past participle":  "bestrewed/bestrewn",
+        "Third person singular":  "bestrews",
+        "Present participle gerund":  "bestrewing"
+    },
+    {
+        "BF": "bestride",
+        "Past Simple":  "bestrode",
+        "Past participle":  "bestridden",
+        "Third person singular":  "bestrides",
+        "Present participle gerund":  "bestriding"
+    },
+    {
+        "BF": "bet",
+        "Past Simple":  "bet",
+        "Past participle":  "bet",
+        "Third person singular":  "bets",
+        "Present participle gerund":  "betting"
+    },
+    {
+        "BF": "betake",
+        "Past Simple":  "betook",
+        "Past participle":  "betaken",
+        "Third person singular":  "betakes",
+        "Present participle gerund":  "betaking"
+    },
+    {
+        "BF": "bethink",
+        "Past Simple":  "bethought",
+        "Past participle":  "bethought",
+        "Third person singular":  "bethinks",
+        "Present participle gerund":  "bethinking"
+    },
+    {
+        "BF": "beweep",
+        "Past Simple":  "bewept",
+        "Past participle":  "bewept",
+        "Third person singular":  "beweeps",
+        "Present participle gerund":  "beweeping"
+    },
+    {
+        "BF": "bid",
+        "Past Simple":  "bid",
+        "Past participle":  "bid",
+        "Third person singular":  "bids",
+        "Present participle gerund":  "bidding"
+    },
+    {
+        "BF": "bid",
+        "Past Simple":  "bade",
+        "Past participle":  "bidden",
+        "Third person singular":  "bids",
+        "Present participle gerund":  "bidding"
+    },
+    {
+        "BF": "bide",
+        "Past Simple":  "bided/bode",
+        "Past participle":  "bided",
+        "Third person singular":  "bides",
+        "Present participle gerund":  "biding"
+    },
+    {
+        "BF": "bind",
+        "Past Simple":  "bound",
+        "Past participle":  "bound",
+        "Third person singular":  "binds",
+        "Present participle gerund":  "binding"
+    },
+    {
+        "BF": "bite",
+        "Past Simple":  "bit",
+        "Past participle":  "bitten",
+        "Third person singular":  "bites",
+        "Present participle gerund":  "biting"
+    },
+    {
+        "BF": "blaw",
+        "Past Simple":  "blawed",
+        "Past participle":  "blawn",
+        "Third person singular":  "blaws",
+        "Present participle gerund":  "blawing"
+    },
+    {
+        "BF": "bleed",
+        "Past Simple":  "bled",
+        "Past participle":  "bled",
+        "Third person singular":  "bleeds",
+        "Present participle gerund":  "bleeding"
+    },
+    {
+        "BF": "blend",
+        "Past Simple":  "blended/blent",
+        "Past participle":  "blended/blent",
+        "Third person singular":  "blends",
+        "Present participle gerund":  "blending"
+    },
+    {
+        "BF": "bless",
+        "Past Simple":  "blessed/blest",
+        "Past participle":  "blessed/blest",
+        "Third person singular":  "blesses",
+        "Present participle gerund":  "blessing"
+    },
+    {
+        "BF": "blow",
+        "Past Simple":  "blew",
+        "Past participle":  "blown",
+        "Third person singular":  "blows",
+        "Present participle gerund":  "blowing"
+    },
+    {
+        "BF": "bottle-feed",
+        "Past Simple":  "bottle-fed",
+        "Past participle":  "bottle-fed",
+        "Third person singular":  "bottle-feeds",
+        "Present participle gerund":  "bottle-feeding"
+    },
+    {
+        "BF": "bowstring",
+        "Past Simple":  "bowstrung/bowstringed",
+        "Past participle":  "bowstrung",
+        "Third person singular":  "bowstrings",
+        "Present participle gerund":  "bowstringing"
+    },
+    {
+        "BF": "break",
+        "Past Simple":  "broke",
+        "Past participle":  "broken",
+        "Third person singular":  "breaks",
+        "Present participle gerund":  "breaking"
+    },
+    {
+        "BF": "breast-feed",
+        "Past Simple":  "breast-fed",
+        "Past participle":  "breast-fed",
+        "Third person singular":  "breast-feeds",
+        "Present participle gerund":  "breast-feeding"
+    },
+    {
+        "BF": "breed",
+        "Past Simple":  "bred",
+        "Past participle":  "bred",
+        "Third person singular":  "breeds",
+        "Present participle gerund":  "breeding"
+    },
+    {
+        "BF": "bring",
+        "Past Simple":  "brought",
+        "Past participle":  "brought",
+        "Third person singular":  "brings",
+        "Present participle gerund":  "bringing"
+    },
+    {
+        "BF": "broadcast",
+        "Past Simple":  "broadcast/broadcasted",
+        "Past participle":  "broadcast/broadcasted",
+        "Third person singular":  "broadcasts",
+        "Present participle gerund":  "broadcasting"
+    },
+    {
+        "BF": "browbeat",
+        "Past Simple":  "browbeat",
+        "Past participle":  "browbeat/browbeaten",
+        "Third person singular":  "browbeats",
+        "Present participle gerund":  "browbeating"
+    },
+    {
+        "BF": "build",
+        "Past Simple":  "built",
+        "Past participle":  "built",
+        "Third person singular":  "builds",
+        "Present participle gerund":  "building"
+    },
+    {
+        "BF": "burn",
+        "Past Simple":  "burnt/burned",
+        "Past participle":  "burnt/burned",
+        "Third person singular":  "burns",
+        "Present participle gerund":  "burning"
+    },
+    {
+        "BF": "burst",
+        "Past Simple":  "burst",
+        "Past participle":  "burst",
+        "Third person singular":  "bursts",
+        "Present participle gerund":  "bursting"
+    },
+    {
+        "BF": "bust",
+        "Past Simple":  "bust",
+        "Past participle":  "bust",
+        "Third person singular":  "busts",
+        "Present participle gerund":  "busting"
+    },
+    {
+        "BF": "buy",
+        "Past Simple":  "bought",
+        "Past participle":  "bought",
+        "Third person singular":  "buys",
+        "Present participle gerund":  "buying"
+    },
+    {
+        "BF": "cast",
+        "Past Simple":  "cast",
+        "Past participle":  "cast",
+        "Third person singular":  "casts",
+        "Present participle gerund":  "casting"
+    },
+    {
+        "BF": "catch",
+        "Past Simple":  "caught",
+        "Past participle":  "caught",
+        "Third person singular":  "catches",
+        "Present participle gerund":  "catching"
+    },
+    {
+        "BF": "cheerlead",
+        "Past Simple":  "cheerled",
+        "Past participle":  "cheerled",
+        "Third person singular":  "cheerleads",
+        "Present participle gerund":  "cheerleading"
+    },
+    {
+        "BF": "chide",
+        "Past Simple":  "chid",
+        "Past participle":  "chid/chidden",
+        "Third person singular":  "chides",
+        "Present participle gerund":  "chiding"
+    },
+    {
+        "BF": "choose",
+        "Past Simple":  "chose",
+        "Past participle":  "chosen",
+        "Third person singular":  "chooses",
+        "Present participle gerund":  "choosing"
+    },
+    {
+        "BF": "clap",
+        "Past Simple":  "clapped/clapt",
+        "Past participle":  "clapped/clapt",
+        "Third person singular":  "claps",
+        "Present participle gerund":  "clapping"
+    },
+    {
+        "BF": "clear-cut",
+        "Past Simple":  "clear-cut",
+        "Past participle":  "clear-cut",
+        "Third person singular":  "clear-cuts",
+        "Present participle gerund":  "clear-cutting"
+    },
+    {
+        "BF": "cleave",
+        "Past Simple":  "cleft/cleaved/clove",
+        "Past participle":  "cleft/cleaved/cloven",
+        "Third person singular":  "cleaves",
+        "Present participle gerund":  "cleaving"
+    },
+    {
+        "BF": "cleek",
+        "Past Simple":  "claught/claucht/cleeked",
+        "Past participle":  "cleeked",
+        "Third person singular":  "cleeks",
+        "Present participle gerund":  "cleeking"
+    },
+    {
+        "BF": "clepe",
+        "Past Simple":  "cleped",
+        "Past participle":  "cleped/ycleped/yclept",
+        "Third person singular":  "clepes",
+        "Present participle gerund":  "cleping"
+    },
+    {
+        "BF": "cling",
+        "Past Simple":  "clung",
+        "Past participle":  "clung",
+        "Third person singular":  "clings",
+        "Present participle gerund":  "clinging"
+    },
+    {
+        "BF": "clothe",
+        "Past Simple":  "clad/clothed",
+        "Past participle":  "clad/clothed",
+        "Third person singular":  "clothes",
+        "Present participle gerund":  "clothing"
+    },
+    {
+        "BF": "colorbreed",
+        "Past Simple":  "colorbred",
+        "Past participle":  "colorbred",
+        "Third person singular":  "colorbreeds",
+        "Present participle gerund":  "colorbreeding"
+    },
+    {
+        "BF": "colorcast",
+        "Past Simple":  "colorcast",
+        "Past participle":  "colorcast",
+        "Third person singular":  "colorcasts",
+        "Present participle gerund":  "colorcasting"
+    },
+    {
+        "BF": "come",
+        "Past Simple":  "came",
+        "Past participle":  "come",
+        "Third person singular":  "comes",
+        "Present participle gerund":  "coming"
+    },
+    {
+        "BF": "cost",
+        "Past Simple":  "cost",
+        "Past participle":  "cost",
+        "Third person singular":  "costs",
+        "Present participle gerund":  "costing"
+    },
+    {
+        "BF": "cost-cut",
+        "Past Simple":  "cost-cut",
+        "Past participle":  "cost-cut",
+        "Third person singular":  "cost-cuts",
+        "Present participle gerund":  "cost-cutting"
+    },
+    {
+        "BF": "counterdraw",
+        "Past Simple":  "counterdrew",
+        "Past participle":  "counterdrawn",
+        "Third person singular":  "counterdraws",
+        "Present participle gerund":  "counterdrawing"
+    },
+    {
+        "BF": "counterlight",
+        "Past Simple":  "counterlit",
+        "Past participle":  "counterlit",
+        "Third person singular":  "counterlights",
+        "Present participle gerund":  "counterlighting"
+    },
+    {
+        "BF": "cowrite",
+        "Past Simple":  "cowrote",
+        "Past participle":  "cowritten",
+        "Third person singular":  "cowrites",
+        "Present participle gerund":  "cowriting"
+    },
+    {
+        "BF": "crash-dive",
+        "Past Simple":  "crash-dived/crash-dove",
+        "Past participle":  "crash-dived",
+        "Third person singular":  "crash-dives",
+        "Present participle gerund":  "crash-diving"
+    },
+    {
+        "BF": "creep",
+        "Past Simple":  "crept",
+        "Past participle":  "crept",
+        "Third person singular":  "creeps",
+        "Present participle gerund":  "creeping"
+    },
+    {
+        "BF": "creep-feed",
+        "Past Simple":  "creep-fed",
+        "Past participle":  "creep-fed",
+        "Third person singular":  "creep-feeds",
+        "Present participle gerund":  "creep-feeding"
+    },
+    {
+        "BF": "crib-bite",
+        "Past Simple":  "crib-bit",
+        "Past participle":  "crib-bitten",
+        "Third person singular":  "crib-bites",
+        "Present participle gerund":  "crib-biting"
+    },
+    {
+        "BF": "cross-bite",
+        "Past Simple":  "cross-bit",
+        "Past participle":  "cross-bitten",
+        "Third person singular":  "cross-bites",
+        "Present participle gerund":  "cross-biting"
+    },
+    {
+        "BF": "cross-string",
+        "Past Simple":  "cross-strung",
+        "Past participle":  "cross-strung",
+        "Third person singular":  "cross-strings",
+        "Present participle gerund":  "cross-stringing"
+    },
+    {
+        "BF": "crossbreed",
+        "Past Simple":  "crossbred",
+        "Past participle":  "crossbred",
+        "Third person singular":  "crossbreeds",
+        "Present participle gerund":  "crossbreeding"
+    },
+    {
+        "BF": "crosscut",
+        "Past Simple":  "crosscut",
+        "Past participle":  "crosscut",
+        "Third person singular":  "crosscuts",
+        "Present participle gerund":  "crosscutting"
+    },
+    {
+        "BF": "crosslight",
+        "Past Simple":  "crosslit",
+        "Past participle":  "crosslit",
+        "Third person singular":  "crosslights",
+        "Present participle gerund":  "crosslighting"
+    },
+    {
+        "BF": "crow",
+        "Past Simple":  "crowed/crew",
+        "Past participle":  "crowed",
+        "Third person singular":  "crows",
+        "Present participle gerund":  "crowing"
+    },
+    {
+        "BF": "cut",
+        "Past Simple":  "cut",
+        "Past participle":  "cut",
+        "Third person singular":  "cuts",
+        "Present participle gerund":  "cutting"
+    },
+    {
+        "BF": "dare",
+        "Past Simple":  "dared/durst",
+        "Past participle":  "dared",
+        "Third person singular":  "dares",
+        "Present participle gerund":  "daring"
+    },
+    {
+        "BF": "daydream",
+        "Past Simple":  "daydreamt/daydreamt",
+        "Past participle":  "daydreamt/daydreamt",
+        "Third person singular":  "daydreams",
+        "Present participle gerund":  "daydreaming"
+    },
+    {
+        "BF": "deal",
+        "Past Simple":  "dealt",
+        "Past participle":  "dealt",
+        "Third person singular":  "deals",
+        "Present participle gerund":  "dealing"
+    },
+    {
+        "BF": "deep-freeze",
+        "Past Simple":  "deep-froze",
+        "Past participle":  "deep-frozen",
+        "Third person singular":  "deep-freezes",
+        "Present participle gerund":  "deep-freezing"
+    },
+    {
+        "BF": "dig",
+        "Past Simple":  "dug",
+        "Past participle":  "dug",
+        "Third person singular":  "digs",
+        "Present participle gerund":  "digging"
+    },
+    {
+        "BF": "dight",
+        "Past Simple":  "dight/dighted",
+        "Past participle":  "dight/dighted",
+        "Third person singular":  "dights",
+        "Present participle gerund":  "dighting"
+    },
+    {
+        "BF": "dispread",
+        "Past Simple":  "dispread",
+        "Past participle":  "dispread",
+        "Third person singular":  "dispreads",
+        "Present participle gerund":  "dispreading"
+    },
+    {
+        "BF": "disprove",
+        "Past Simple":  "disproved",
+        "Past participle":  "disproven/disproved",
+        "Third person singular":  "disproves",
+        "Present participle gerund":  "disproving"
+    },
+    {
+        "BF": "dive",
+        "Past Simple":  "dived/dove",
+        "Past participle":  "dived",
+        "Third person singular":  "dives",
+        "Present participle gerund":  "diving"
+    },
+    {
+        "BF": "do",
+        "Past Simple":  "did",
+        "Past participle":  "done",
+        "Third person singular":  "does",
+        "Present participle gerund":  "doing"
+    },
+    {
+        "BF": "dogfight",
+        "Past Simple":  "dogfought",
+        "Past participle":  "dogfought",
+        "Third person singular":  "dogfights",
+        "Present participle gerund":  "dogfighting"
+    },
+    {
+        "BF": "dow",
+        "Past Simple":  "dought/dowed",
+        "Past participle":  "dought/dowed",
+        "Third person singular":  "dows",
+        "Present participle gerund":  "dowing"
+    },
+    {
+        "BF": "draw",
+        "Past Simple":  "drew",
+        "Past participle":  "drawn",
+        "Third person singular":  "draws",
+        "Present participle gerund":  "drawing"
+    },
+    {
+        "BF": "dream",
+        "Past Simple":  "dreamt/dreamed",
+        "Past participle":  "dreamt/dreamed",
+        "Third person singular":  "dreams",
+        "Present participle gerund":  "dreaming"
+    },
+    {
+        "BF": "drink",
+        "Past Simple":  "drank",
+        "Past participle":  "drunk",
+        "Third person singular":  "drinks",
+        "Present participle gerund":  "drinking"
+    },
+    {
+        "BF": "drip-feed",
+        "Past Simple":  "drip-fed",
+        "Past participle":  "drip-fed",
+        "Third person singular":  "drip-feeds",
+        "Present participle gerund":  "drip-feeding"
+    },
+    {
+        "BF": "drive",
+        "Past Simple":  "drove",
+        "Past participle":  "driven",
+        "Third person singular":  "drives",
+        "Present participle gerund":  "driving"
+    },
+    {
+        "BF": "dwell",
+        "Past Simple":  "dwelt",
+        "Past participle":  "dwelt",
+        "Third person singular":  "dwells",
+        "Present participle gerund":  "dwelling"
+    },
+    {
+        "BF": "eat",
+        "Past Simple":  "ate",
+        "Past participle":  "eaten",
+        "Third person singular":  "eats",
+        "Present participle gerund":  "eating"
+    },
+    {
+        "BF": "end-run",
+        "Past Simple":  "end-ran",
+        "Past participle":  "end-run",
+        "Third person singular":  "end-runs",
+        "Present participle gerund":  "end-running"
+    },
+    {
+        "BF": "engird",
+        "Past Simple":  "engirt",
+        "Past participle":  "engirt",
+        "Third person singular":  "engirds",
+        "Present participle gerund":  "engirding"
+    },
+    {
+        "BF": "engrave",
+        "Past Simple":  "engraved",
+        "Past participle":  "engraved/engraven",
+        "Third person singular":  "engraves",
+        "Present participle gerund":  "engraving"
+    },
+    {
+        "BF": "enwind",
+        "Past Simple":  "enwound",
+        "Past participle":  "enwound",
+        "Third person singular":  "enwinds",
+        "Present participle gerund":  "enwinding"
+    },
+    {
+        "BF": "fall",
+        "Past Simple":  "fell",
+        "Past participle":  "fallen",
+        "Third person singular":  "falls",
+        "Present participle gerund":  "falling"
+    },
+    {
+        "BF": "farebeat",
+        "Past Simple":  "farebeat",
+        "Past participle":  "farebeaten",
+        "Third person singular":  "farebeats",
+        "Present participle gerund":  "farebeating"
+    },
+    {
+        "BF": "fast-cut",
+        "Past Simple":  "fast-cut",
+        "Past participle":  "fast-cut",
+        "Third person singular":  "fast-cuts",
+        "Present participle gerund":  "fast-cutting"
+    },
+    {
+        "BF": "feed",
+        "Past Simple":  "fed",
+        "Past participle":  "fed",
+        "Third person singular":  "feeds",
+        "Present participle gerund":  "feeding"
+    },
+    {
+        "BF": "feel",
+        "Past Simple":  "felt",
+        "Past participle":  "felt",
+        "Third person singular":  "feels",
+        "Present participle gerund":  "feeling"
+    },
+    {
+        "BF": "fight",
+        "Past Simple":  "fought",
+        "Past participle":  "fought",
+        "Third person singular":  "fights",
+        "Present participle gerund":  "fighting"
+    },
+    {
+        "BF": "find",
+        "Past Simple":  "found",
+        "Past participle":  "found",
+        "Third person singular":  "finds",
+        "Present participle gerund":  "finding"
+    },
+    {
+        "BF": "fit",
+        "Past Simple":  "fit/fitted",
+        "Past participle":  "fit/fitted",
+        "Third person singular":  "fits",
+        "Present participle gerund":  "fitting"
+    },
+    {
+        "BF": "flash-freeze",
+        "Past Simple":  "flash-froze",
+        "Past participle":  "flash-frozen",
+        "Third person singular":  "flash-freezes",
+        "Present participle gerund":  "flash-freezing"
+    },
+    {
+        "BF": "flee",
+        "Past Simple":  "fled",
+        "Past participle":  "fled",
+        "Third person singular":  "flees",
+        "Present participle gerund":  "fleeing"
+    },
+    {
+        "BF": "fling",
+        "Past Simple":  "flung",
+        "Past participle":  "flung",
+        "Third person singular":  "flings",
+        "Present participle gerund":  "flinging"
+    },
+    {
+        "BF": "floodlight",
+        "Past Simple":  "floodlit",
+        "Past participle":  "floodlit",
+        "Third person singular":  "floodlights",
+        "Present participle gerund":  "floodlighting"
+    },
+    {
+        "BF": "fly",
+        "Past Simple":  "flew",
+        "Past participle":  "flown",
+        "Third person singular":  "flies",
+        "Present participle gerund":  "flying"
+    },
+    {
+        "BF": "flyblow",
+        "Past Simple":  "flyblew",
+        "Past participle":  "flyblown",
+        "Third person singular":  "flyblows",
+        "Present participle gerund":  "flyblowing"
+    },
+    {
+        "BF": "forbear",
+        "Past Simple":  "forbore",
+        "Past participle":  "forborne/forborn",
+        "Third person singular":  "forbears",
+        "Present participle gerund":  "forbearing"
+    },
+    {
+        "BF": "forbid",
+        "Past Simple":  "forbade/forbad",
+        "Past participle":  "forbidden",
+        "Third person singular":  "forbids",
+        "Present participle gerund":  "forbidding"
+    },
+    {
+        "BF": "force-feed",
+        "Past Simple":  "force-fed",
+        "Past participle":  "force-fed",
+        "Third person singular":  "force-feeds",
+        "Present participle gerund":  "force-feeding"
+    },
+    {
+        "BF": "fordo/foredo",
+        "Past Simple":  "fordid",
+        "Past participle":  "fordone",
+        "Third person singular":  "fordoes",
+        "Present participle gerund":  "fordoing"
+    },
+    {
+        "BF": "forecast",
+        "Past Simple":  "forecast/forecasted",
+        "Past participle":  "forecast/forecasted",
+        "Third person singular":  "forecasts",
+        "Present participle gerund":  "forecasting"
+    },
+    {
+        "BF": "forefeel",
+        "Past Simple":  "forefelt",
+        "Past participle":  "forefelt",
+        "Third person singular":  "forefeels",
+        "Present participle gerund":  "forefeeling"
+    },
+    {
+        "BF": "forego",
+        "Past Simple":  "forewent",
+        "Past participle":  "foregone",
+        "Third person singular":  "foregoes",
+        "Present participle gerund":  "foregoing"
+    },
+    {
+        "BF": "foreknow",
+        "Past Simple":  "foreknew",
+        "Past participle":  "foreknown",
+        "Third person singular":  "foreknows",
+        "Present participle gerund":  "foreknowing"
+    },
+    {
+        "BF": "forerun",
+        "Past Simple":  "foreran",
+        "Past participle":  "forerun",
+        "Third person singular":  "foreruns",
+        "Present participle gerund":  "forerunning"
+    },
+    {
+        "BF": "foresee",
+        "Past Simple":  "foresaw",
+        "Past participle":  "foreseen",
+        "Third person singular":  "foresees",
+        "Present participle gerund":  "foreseeing"
+    },
+    {
+        "BF": "foreshow",
+        "Past Simple":  "foreshowed",
+        "Past participle":  "forshowed/foreshown",
+        "Third person singular":  "foreshows",
+        "Present participle gerund":  "foreshowing"
+    },
+    {
+        "BF": "forespeak",
+        "Past Simple":  "forespoke",
+        "Past participle":  "forespoken",
+        "Third person singular":  "forespeaks",
+        "Present participle gerund":  "forespeaking"
+    },
+    {
+        "BF": "foretell",
+        "Past Simple":  "foretold",
+        "Past participle":  "foretold",
+        "Third person singular":  "foretells",
+        "Present participle gerund":  "foretelling"
+    },
+    {
+        "BF": "forget",
+        "Past Simple":  "forgot",
+        "Past participle":  "forgotten",
+        "Third person singular":  "forgets",
+        "Present participle gerund":  "foregetting"
+    },
+    {
+        "BF": "forgive",
+        "Past Simple":  "forgave",
+        "Past participle":  "forgiven",
+        "Third person singular":  "forgives",
+        "Present participle gerund":  "forgiving"
+    },
+    {
+        "BF": "forlese",
+        "Past Simple":  "forlore",
+        "Past participle":  "forlorn",
+        "Third person singular":  "forleses",
+        "Present participle gerund":  "forlesing"
+    },
+    {
+        "BF": "forsake",
+        "Past Simple":  "forsook",
+        "Past participle":  "forsaken",
+        "Third person singular":  "forsakes",
+        "Present participle gerund":  "forsaking"
+    },
+    {
+        "BF": "forswear",
+        "Past Simple":  "forswore",
+        "Past participle":  "forsworn",
+        "Third person singular":  "forswears",
+        "Present participle gerund":  "forswearing"
+    },
+    {
+        "BF": "fraught",
+        "Past Simple":  "fraught/fraughted",
+        "Past participle":  "fraught/fraughted",
+        "Third person singular":  "fraughts",
+        "Present participle gerund":  "fraughting"
+    },
+    {
+        "BF": "free-fall",
+        "Past Simple":  "free-fell",
+        "Past participle":  "free-fallen",
+        "Third person singular":  "free-falls",
+        "Present participle gerund":  "free-falling"
+    },
+    {
+        "BF": "freeze",
+        "Past Simple":  "froze",
+        "Past participle":  "frozen",
+        "Third person singular":  "freezes",
+        "Present participle gerund":  "freezing"
+    },
+    {
+        "BF": "frostbite",
+        "Past Simple":  "frostbit",
+        "Past participle":  "frostbitten",
+        "Third person singular":  "frostbites",
+        "Present participle gerund":  "frostbiting"
+    },
+    {
+        "BF": "gainsay",
+        "Past Simple":  "gainsaid",
+        "Past participle":  "gainsaid",
+        "Third person singular":  "gainsays",
+        "Present participle gerund":  "gainsaying"
+    },
+    {
+        "BF": "gaslight",
+        "Past Simple":  "gaslit/gaslighted",
+        "Past participle":  "gaslit/gaslighted",
+        "Third person singular":  "gaslights",
+        "Present participle gerund":  "gaslighting"
+    },
+    {
+        "BF": "geld",
+        "Past Simple":  "gelded/gelt",
+        "Past participle":  "gelded/gelt",
+        "Third person singular":  "gelds",
+        "Present participle gerund":  "gelding"
+    },
+    {
+        "BF": "get",
+        "Past Simple":  "got",
+        "Past participle":  "got/gotten",
+        "Third person singular":  "gets",
+        "Present participle gerund":  "getting"
+    },
+    {
+        "BF": "ghostwrite",
+        "Past Simple":  "ghostwrote",
+        "Past participle":  "ghostwritten",
+        "Third person singular":  "ghostwrites",
+        "Present participle gerund":  "ghostwriting"
+    },
+    {
+        "BF": "gild",
+        "Past Simple":  "gilt/gilded",
+        "Past participle":  "gilt/gilded",
+        "Third person singular":  "gilds",
+        "Present participle gerund":  "gilding"
+    },
+    {
+        "BF": "gin",
+        "Past Simple":  "gan",
+        "Past participle":  "gan",
+        "Third person singular":  "gins",
+        "Present participle gerund":  "ginning"
+    },
+    {
+        "BF": "gird",
+        "Past Simple":  "girded/girt",
+        "Past participle":  "girded/girt",
+        "Third person singular":  "girds",
+        "Present participle gerund":  "girding"
+    },
+    {
+        "BF": "give",
+        "Past Simple":  "gave",
+        "Past participle":  "given",
+        "Third person singular":  "gives",
+        "Present participle gerund":  "giving"
+    },
+    {
+        "BF": "gnaw",
+        "Past Simple":  "gnawed",
+        "Past participle":  "gnawed/gnawn",
+        "Third person singular":  "gnaws",
+        "Present participle gerund":  "gnawing"
+    },
+    {
+        "BF": "go",
+        "Past Simple":  "went",
+        "Past participle":  "gone/been",
+        "Third person singular":  "goes",
+        "Present participle gerund":  "going"
+    },
+    {
+        "BF": "grave",
+        "Past Simple":  "graved",
+        "Past participle":  "graven/graved",
+        "Third person singular":  "graves",
+        "Present participle gerund":  "graving"
+    },
+    {
+        "BF": "grind",
+        "Past Simple":  "ground",
+        "Past participle":  "ground",
+        "Third person singular":  "grinds",
+        "Present participle gerund":  "grinding"
+    },
+    {
+        "BF": "grow",
+        "Past Simple":  "grew",
+        "Past participle":  "grown",
+        "Third person singular":  "grows",
+        "Present participle gerund":  "growing"
+    },
+    {
+        "BF": "hagride",
+        "Past Simple":  "hagrode",
+        "Past participle":  "hagridden",
+        "Third person singular":  "hagrides",
+        "Present participle gerund":  "hagriding"
+    },
+    {
+        "BF": "halterbreak",
+        "Past Simple":  "halterbroke",
+        "Past participle":  "halterbroken",
+        "Third person singular":  "halterbreaks",
+        "Present participle gerund":  "halterbreaking"
+    },
+    {
+        "BF": "hamstring",
+        "Past Simple":  "hamstrung/hamstringed",
+        "Past participle":  "hamstrung/hamstringed",
+        "Third person singular":  "hamstrings",
+        "Present participle gerund":  "hamstringing"
+    },
+    {
+        "BF": "hand-feed",
+        "Past Simple":  "hand-fed",
+        "Past participle":  "hand-fed",
+        "Third person singular":  "hand-feeds",
+        "Present participle gerund":  "hand-feeding"
+    },
+    {
+        "BF": "hand-ride",
+        "Past Simple":  "hand-rode",
+        "Past participle":  "hand-ridden",
+        "Third person singular":  "hand-rides",
+        "Present participle gerund":  "hand-riding"
+    },
+    {
+        "BF": "handsew",
+        "Past Simple":  "handsewed",
+        "Past participle":  "handsewn/handsewed",
+        "Third person singular":  "handsews",
+        "Present participle gerund":  "handsewing"
+    },
+    {
+        "BF": "handwrite",
+        "Past Simple":  "handwrote",
+        "Past participle":  "handwritten",
+        "Third person singular":  "handwrites",
+        "Present participle gerund":  "handwriting"
+    },
+    {
+        "BF": "hang",
+        "Past Simple":  "hung/hanged",
+        "Past participle":  "hung/hanged",
+        "Third person singular":  "hangs",
+        "Present participle gerund":  "hanging"
+    },
+    {
+        "BF": "have",
+        "Past Simple":  "had",
+        "Past participle":  "had",
+        "Third person singular":  "has",
+        "Present participle gerund":  "having"
+    },
+    {
+        "BF": "hear",
+        "Past Simple":  "heard",
+        "Past participle":  "heard",
+        "Third person singular":  "hears",
+        "Present participle gerund":  "hearing"
+    },
+    {
+        "BF": "heave",
+        "Past Simple":  "heaved/hove",
+        "Past participle":  "heaved/hove",
+        "Third person singular":  "heaves",
+        "Present participle gerund":  "heaving"
+    },
+    {
+        "BF": "hew",
+        "Past Simple":  "hewed",
+        "Past participle":  "hewn",
+        "Third person singular":  "hews",
+        "Present participle gerund":  "hewing"
+    },
+    {
+        "BF": "hide",
+        "Past Simple":  "hid",
+        "Past participle":  "hidden",
+        "Third person singular":  "hides",
+        "Present participle gerund":  "hiding"
+    },
+    {
+        "BF": "hight",
+        "Past Simple":  "hote/hight",
+        "Past participle":  "hoten",
+        "Third person singular":  "hights",
+        "Present participle gerund":  "highting"
+    },
+    {
+        "BF": "hit",
+        "Past Simple":  "hit",
+        "Past participle":  "hit",
+        "Third person singular":  "hits",
+        "Present participle gerund":  "hitting"
+    },
+    {
+        "BF": "hoise",
+        "Past Simple":  "hoised/hoist",
+        "Past participle":  "hoised/hoist",
+        "Third person singular":  "hoises",
+        "Present participle gerund":  "hoising"
+    },
+    {
+        "BF": "hoist",
+        "Past Simple":  "hoist/hoisted",
+        "Past participle":  "hoist/hoisted",
+        "Third person singular":  "hoists",
+        "Present participle gerund":  "hoisting"
+    },
+    {
+        "BF": "hold",
+        "Past Simple":  "held",
+        "Past participle":  "held",
+        "Third person singular":  "holds",
+        "Present participle gerund":  "holding"
+    },
+    {
+        "BF": "house-sit",
+        "Past Simple":  "house-sat",
+        "Past participle":  "house-sat",
+        "Third person singular":  "house-sits",
+        "Present participle gerund":  "house-sitting"
+    },
+    {
+        "BF": "housebreak",
+        "Past Simple":  "housebroke",
+        "Past participle":  "housebroken",
+        "Third person singular":  "housebreaks",
+        "Present participle gerund":  "housebreaking"
+    },
+    {
+        "BF": "hurt",
+        "Past Simple":  "hurt",
+        "Past participle":  "hurt",
+        "Third person singular":  "hurts",
+        "Present participle gerund":  "hurting"
+    },
+    {
+        "BF": "inbreed",
+        "Past Simple":  "inbred",
+        "Past participle":  "inbred",
+        "Third person singular":  "inbreeds",
+        "Present participle gerund":  "inbreeding"
+    },
+    {
+        "BF": "indwell",
+        "Past Simple":  "indwelt",
+        "Past participle":  "indwelt",
+        "Third person singular":  "indwells",
+        "Present participle gerund":  "indwelling"
+    },
+    {
+        "BF": "inhold",
+        "Past Simple":  "inheld",
+        "Past participle":  "inheld",
+        "Third person singular":  "inholds",
+        "Present participle gerund":  "inholding"
+    },
+    {
+        "BF": "inlay",
+        "Past Simple":  "inlaid",
+        "Past participle":  "inlaid",
+        "Third person singular":  "inlays",
+        "Present participle gerund":  "inlaying"
+    },
+    {
+        "BF": "input",
+        "Past Simple":  "input/inputted",
+        "Past participle":  "input/inputted",
+        "Third person singular":  "inputs",
+        "Present participle gerund":  "inputting"
+    },
+    {
+        "BF": "inset",
+        "Past Simple":  "inset",
+        "Past participle":  "inset",
+        "Third person singular":  "insets",
+        "Present participle gerund":  "insetting"
+    },
+    {
+        "BF": "interblend",
+        "Past Simple":  "interblended/interblent",
+        "Past participle":  "interblended/interblent",
+        "Third person singular":  "interblends",
+        "Present participle gerund":  "interblending"
+    },
+    {
+        "BF": "interbreed",
+        "Past Simple":  "interbred",
+        "Past participle":  "interbred",
+        "Third person singular":  "interbreeds",
+        "Present participle gerund":  "interbreeding"
+    },
+    {
+        "BF": "intercut",
+        "Past Simple":  "intercut",
+        "Past participle":  "intercut",
+        "Third person singular":  "intercuts",
+        "Present participle gerund":  "intercutting"
+    },
+    {
+        "BF": "intergrave",
+        "Past Simple":  "intergraved",
+        "Past participle":  "intergraved/intergraven",
+        "Third person singular":  "intergraves",
+        "Present participle gerund":  "intergraving"
+    },
+    {
+        "BF": "interlay",
+        "Past Simple":  "interlaid",
+        "Past participle":  "interlaid",
+        "Third person singular":  "interlays",
+        "Present participle gerund":  "interlaying"
+    },
+    {
+        "BF": "interset",
+        "Past Simple":  "interset",
+        "Past participle":  "interset",
+        "Third person singular":  "intersets",
+        "Present participle gerund":  "intersetting"
+    },
+    {
+        "BF": "interweave",
+        "Past Simple":  "interwove",
+        "Past participle":  "interwoven",
+        "Third person singular":  "interweaves",
+        "Present participle gerund":  "interweaving"
+    },
+    {
+        "BF": "interwind",
+        "Past Simple":  "interwound",
+        "Past participle":  "interwound",
+        "Third person singular":  "interwinds",
+        "Present participle gerund":  "interwinding"
+    },
+    {
+        "BF": "inweave",
+        "Past Simple":  "inwove/inweaved",
+        "Past participle":  "inwoven/inweaved",
+        "Third person singular":  "inweaves",
+        "Present participle gerund":  "inweaving"
+    },
+    {
+        "BF": "inwind",
+        "Past Simple":  "inwound",
+        "Past participle":  "inwound",
+        "Third person singular":  "inwinds",
+        "Present participle gerund":  "inwinding"
+    },
+    {
+        "BF": "jerry-build",
+        "Past Simple":  "jerry-built",
+        "Past participle":  "jerry-built",
+        "Third person singular":  "jerry-builds",
+        "Present participle gerund":  "jerry-building"
+    },
+    {
+        "BF": "keep",
+        "Past Simple":  "kept",
+        "Past participle":  "kept",
+        "Third person singular":  "keeps",
+        "Present participle gerund":  "keeping"
+    },
+    {
+        "BF": "ken",
+        "Past Simple":  "kent/kenned",
+        "Past participle":  "kent/kenned",
+        "Third person singular":  "kens",
+        "Present participle gerund":  "kenning"
+    },
+    {
+        "BF": "kneel",
+        "Past Simple":  "knelt/kneeled",
+        "Past participle":  "knelt/kneeled",
+        "Third person singular":  "kneels",
+        "Present participle gerund":  "kneeling"
+    },
+    {
+        "BF": "knit",
+        "Past Simple":  "knit/knitted",
+        "Past participle":  "knit/knitted",
+        "Third person singular":  "knits",
+        "Present participle gerund":  "knitting"
+    },
+    {
+        "BF": "know",
+        "Past Simple":  "knew",
+        "Past participle":  "known",
+        "Third person singular":  "knows",
+        "Present participle gerund":  "knowing"
+    },
+    {
+        "BF": "lade",
+        "Past Simple":  "laded",
+        "Past participle":  "laden/laded",
+        "Third person singular":  "lades",
+        "Present participle gerund":  "lading"
+    },
+    {
+        "BF": "landslide",
+        "Past Simple":  "landslid/landslided",
+        "Past participle":  "landslid/landslided",
+        "Third person singular":  "landslides",
+        "Present participle gerund":  "landsliding"
+    },
+    {
+        "BF": "lay",
+        "Past Simple":  "laid",
+        "Past participle":  "laid",
+        "Third person singular":  "lays",
+        "Present participle gerund":  "laying"
+    },
+    {
+        "BF": "lead",
+        "Past Simple":  "led",
+        "Past participle":  "led",
+        "Third person singular":  "leads",
+        "Present participle gerund":  "leading"
+    },
+    {
+        "BF": "lean",
+        "Past Simple":  "leant/leaned",
+        "Past participle":  "leant/leaned",
+        "Third person singular":  "leans",
+        "Present participle gerund":  "leaning"
+    },
+    {
+        "BF": "leap",
+        "Past Simple":  "leapt/leaped",
+        "Past participle":  "leapt/leaped",
+        "Third person singular":  "leaps",
+        "Present participle gerund":  "leaping"
+    },
+    {
+        "BF": "learn",
+        "Past Simple":  "learnt/learned",
+        "Past participle":  "learnt/learned",
+        "Third person singular":  "learns",
+        "Present participle gerund":  "learning"
+    },
+    {
+        "BF": "leave",
+        "Past Simple":  "left",
+        "Past participle":  "left",
+        "Third person singular":  "leaves",
+        "Present participle gerund":  "leaving"
+    },
+    {
+        "BF": "lend",
+        "Past Simple":  "lent",
+        "Past participle":  "lent",
+        "Third person singular":  "lends",
+        "Present participle gerund":  "lending"
+    },
+    {
+        "BF": "lep",
+        "Past Simple":  "lept",
+        "Past participle":  "lept",
+        "Third person singular":  "leps",
+        "Present participle gerund":  "lepping"
+    },
+    {
+        "BF": "let",
+        "Past Simple":  "let",
+        "Past participle":  "let",
+        "Third person singular":  "lets",
+        "Present participle gerund":  "letting"
+    },
+    {
+        "BF": "lie",
+        "Past Simple":  "lay",
+        "Past participle":  "lain",
+        "Third person singular":  "lies",
+        "Present participle gerund":  "lying"
+    },
+    {
+        "BF": "light",
+        "Past Simple":  "lit",
+        "Past participle":  "lit",
+        "Third person singular":  "lights",
+        "Present participle gerund":  "lighting"
+    },
+    {
+        "BF": "linebreed",
+        "Past Simple":  "linebred",
+        "Past participle":  "linebred",
+        "Third person singular":  "linebreeds",
+        "Present participle gerund":  "linebreeding"
+    },
+    {
+        "BF": "lip-read",
+        "Past Simple":  "lip-read",
+        "Past participle":  "lip-read",
+        "Third person singular":  "lip-reads",
+        "Present participle gerund":  "lip-reading"
+    },
+    {
+        "BF": "lose",
+        "Past Simple":  "lost",
+        "Past participle":  "lost",
+        "Third person singular":  "loses",
+        "Present participle gerund":  "losing"
+    },
+    {
+        "BF": "make",
+        "Past Simple":  "made",
+        "Past participle":  "made",
+        "Third person singular":  "makes",
+        "Present participle gerund":  "making"
+    },
+    {
+        "BF": "mean",
+        "Past Simple":  "meant",
+        "Past participle":  "meant",
+        "Third person singular":  "means",
+        "Present participle gerund":  "meaning"
+    },
+    {
+        "BF": "meet",
+        "Past Simple":  "met",
+        "Past participle":  "met",
+        "Third person singular":  "meets",
+        "Present participle gerund":  "meeting"
+    },
+    {
+        "BF": "melt",
+        "Past Simple":  "melted",
+        "Past participle":  "molten/melted",
+        "Third person singular":  "melts",
+        "Present participle gerund":  "melting"
+    },
+    {
+        "BF": "misbecome",
+        "Past Simple":  "misbecame",
+        "Past participle":  "misbecome",
+        "Third person singular":  "misbecomes",
+        "Present participle gerund":  "misbecoming"
+    },
+    {
+        "BF": "miscast",
+        "Past Simple":  "miscast",
+        "Past participle":  "miscast",
+        "Third person singular":  "miscasts",
+        "Present participle gerund":  "miscasting"
+    },
+    {
+        "BF": "mischoose",
+        "Past Simple":  "mischose",
+        "Past participle":  "mischosen",
+        "Third person singular":  "mischooses",
+        "Present participle gerund":  "mischoosins"
+    },
+    {
+        "BF": "miscut",
+        "Past Simple":  "miscut",
+        "Past participle":  "miscut",
+        "Third person singular":  "miscuts",
+        "Present participle gerund":  "miscutting"
+    },
+    {
+        "BF": "misdeal",
+        "Past Simple":  "misdealt",
+        "Past participle":  "misdealt",
+        "Third person singular":  "misdeals",
+        "Present participle gerund":  "misdealing"
+    },
+    {
+        "BF": "misdo",
+        "Past Simple":  "misdid",
+        "Past participle":  "misdone",
+        "Third person singular":  "misdoes",
+        "Present participle gerund":  "misdoing"
+    },
+    {
+        "BF": "misfall",
+        "Past Simple":  "misfell",
+        "Past participle":  "misfallen",
+        "Third person singular":  "misfalls",
+        "Present participle gerund":  "misfalling"
+    },
+    {
+        "BF": "misfeed",
+        "Past Simple":  "misfed",
+        "Past participle":  "misfed",
+        "Third person singular":  "misfeeds",
+        "Present participle gerund":  "misfeeding"
+    },
+    {
+        "BF": "misgive",
+        "Past Simple":  "misgave",
+        "Past participle":  "misgiven",
+        "Third person singular":  "misgive",
+        "Present participle gerund":  "misgiving"
+    },
+    {
+        "BF": "mishear",
+        "Past Simple":  "misheard",
+        "Past participle":  "misheard",
+        "Third person singular":  "mishears",
+        "Present participle gerund":  "mishearing"
+    },
+    {
+        "BF": "mishit",
+        "Past Simple":  "mishit",
+        "Past participle":  "mishit",
+        "Third person singular":  "mishits",
+        "Present participle gerund":  "mishitting"
+    },
+    {
+        "BF": "misknow",
+        "Past Simple":  "misknew",
+        "Past participle":  "misknown",
+        "Third person singular":  "misknows",
+        "Present participle gerund":  "misknowing"
+    },
+    {
+        "BF": "mislay",
+        "Past Simple":  "mislaid",
+        "Past participle":  "mislaid",
+        "Third person singular":  "mislays",
+        "Present participle gerund":  "mislaying"
+    },
+    {
+        "BF": "mislead",
+        "Past Simple":  "misled",
+        "Past participle":  "misled",
+        "Third person singular":  "misleads",
+        "Present participle gerund":  "misleading"
+    },
+    {
+        "BF": "mislearn",
+        "Past Simple":  "mislearnt/mislearned",
+        "Past participle":  "mislearnt/mislearned",
+        "Third person singular":  "mislearns",
+        "Present participle gerund":  "mislearning"
+    },
+    {
+        "BF": "misread",
+        "Past Simple":  "misread",
+        "Past participle":  "misread",
+        "Third person singular":  "misreads",
+        "Present participle gerund":  "misreading"
+    },
+    {
+        "BF": "missay",
+        "Past Simple":  "missaid",
+        "Past participle":  "missaid",
+        "Third person singular":  "missays",
+        "Present participle gerund":  "missaying"
+    },
+    {
+        "BF": "missend",
+        "Past Simple":  "missent",
+        "Past participle":  "missent",
+        "Third person singular":  "missends",
+        "Present participle gerund":  "missending"
+    },
+    {
+        "BF": "misset",
+        "Past Simple":  "misset",
+        "Past participle":  "misset",
+        "Third person singular":  "missets",
+        "Present participle gerund":  "missetting"
+    },
+    {
+        "BF": "misspeak",
+        "Past Simple":  "misspoke",
+        "Past participle":  "misspoken",
+        "Third person singular":  "misspeaks",
+        "Present participle gerund":  "misspeaking"
+    },
+    {
+        "BF": "misspell",
+        "Past Simple":  "misspelt/misspelled",
+        "Past participle":  "misspelt/misspelled",
+        "Third person singular":  "misspells",
+        "Present participle gerund":  "misspelling"
+    },
+    {
+        "BF": "misspend",
+        "Past Simple":  "misspent",
+        "Past participle":  "misspent",
+        "Third person singular":  "misspends",
+        "Present participle gerund":  "misspending"
+    },
+    {
+        "BF": "misswear",
+        "Past Simple":  "misswore",
+        "Past participle":  "missworn",
+        "Third person singular":  "misswears",
+        "Present participle gerund":  "misswearing"
+    },
+    {
+        "BF": "mistake",
+        "Past Simple":  "mistook",
+        "Past participle":  "mistaken",
+        "Third person singular":  "mistake",
+        "Present participle gerund":  "mistaking"
+    },
+    {
+        "BF": "misteach",
+        "Past Simple":  "mistaught",
+        "Past participle":  "mistaught",
+        "Third person singular":  "misteaches",
+        "Present participle gerund":  "misteaching"
+    },
+    {
+        "BF": "mistell",
+        "Past Simple":  "mistold",
+        "Past participle":  "mistold",
+        "Third person singular":  "mistells",
+        "Present participle gerund":  "mistelling"
+    },
+    {
+        "BF": "misthink",
+        "Past Simple":  "misthought",
+        "Past participle":  "misthought",
+        "Third person singular":  "misthinks",
+        "Present participle gerund":  "misthinking"
+    },
+    {
+        "BF": "misunderstand",
+        "Past Simple":  "misunderstood",
+        "Past participle":  "misunderstood",
+        "Third person singular":  "misunderstands",
+        "Present participle gerund":  "misunderstanding"
+    },
+    {
+        "BF": "miswear",
+        "Past Simple":  "misswore",
+        "Past participle":  "misworn",
+        "Third person singular":  "misswears",
+        "Present participle gerund":  "miswearing"
+    },
+    {
+        "BF": "miswed",
+        "Past Simple":  "miswed/miswedded",
+        "Past participle":  "miswed/miswedded",
+        "Third person singular":  "misweds",
+        "Present participle gerund":  "miswedding"
+    },
+    {
+        "BF": "miswrite",
+        "Past Simple":  "miswrote",
+        "Past participle":  "miswritten",
+        "Third person singular":  "miswrites",
+        "Present participle gerund":  "miswriting"
+    },
+    {
+        "BF": "moonlight",
+        "Past Simple":  "moonlit",
+        "Past participle":  "moonlit",
+        "Third person singular":  "moonlights",
+        "Present participle gerund":  "moonlighting"
+    },
+    {
+        "BF": "mow",
+        "Past Simple":  "mowed",
+        "Past participle":  "mown",
+        "Third person singular":  "mows",
+        "Present participle gerund":  "mowing"
+    },
+    {
+        "BF": "naysay",
+        "Past Simple":  "naysaid",
+        "Past participle":  "naysaid",
+        "Third person singular":  "naysays",
+        "Present participle gerund":  "naysaying"
+    },
+    {
+        "BF": "nose-dive",
+        "Past Simple":  "nose-dived/nose-dove",
+        "Past participle":  "nose-dived/nose-dove",
+        "Third person singular":  "nose-dives",
+        "Present participle gerund":  "nose-diving"
+    },
+    {
+        "BF": "offset",
+        "Past Simple":  "offset",
+        "Past participle":  "offset",
+        "Third person singular":  "offsets",
+        "Present participle gerund":  "offsetting"
+    },
+    {
+        "BF": "outbid",
+        "Past Simple":  "outbid",
+        "Past participle":  "outbid",
+        "Third person singular":  "outbids",
+        "Present participle gerund":  "outbidding"
+    },
+    {
+        "BF": "outbreed",
+        "Past Simple":  "outbred",
+        "Past participle":  "outbred",
+        "Third person singular":  "outbreeds",
+        "Present participle gerund":  "outbreeding"
+    },
+    {
+        "BF": "outdo",
+        "Past Simple":  "outdid",
+        "Past participle":  "outdone",
+        "Third person singular":  "outdoes",
+        "Present participle gerund":  "outdoing"
+    },
+    {
+        "BF": "outdraw",
+        "Past Simple":  "outdrew",
+        "Past participle":  "outdrawn",
+        "Third person singular":  "outdraws",
+        "Present participle gerund":  "outdrawing"
+    },
+    {
+        "BF": "outdrink",
+        "Past Simple":  "outdrank",
+        "Past participle":  "outdrunk",
+        "Third person singular":  "outdrinks",
+        "Present participle gerund":  "outdrinking"
+    },
+    {
+        "BF": "outdrive",
+        "Past Simple":  "outdrove",
+        "Past participle":  "outdriven",
+        "Third person singular":  "outdrives",
+        "Present participle gerund":  "outdriving"
+    },
+    {
+        "BF": "outfight",
+        "Past Simple":  "outfought",
+        "Past participle":  "outfought",
+        "Third person singular":  "outfights",
+        "Present participle gerund":  "outfighting"
+    },
+    {
+        "BF": "outfly",
+        "Past Simple":  "outflew",
+        "Past participle":  "outflown",
+        "Third person singular":  "outflies",
+        "Present participle gerund":  "outflying"
+    },
+    {
+        "BF": "outgrow",
+        "Past Simple":  "outgrew",
+        "Past participle":  "outgrown",
+        "Third person singular":  "outgrows",
+        "Present participle gerund":  "outgrowing"
+    },
+    {
+        "BF": "outlay",
+        "Past Simple":  "outlaid",
+        "Past participle":  "outlaid",
+        "Third person singular":  "outlays",
+        "Present participle gerund":  "outlaying"
+    },
+    {
+        "BF": "outleap",
+        "Past Simple":  "outleapt/outleaped",
+        "Past participle":  "outleapt/outleaped",
+        "Third person singular":  "outleaps",
+        "Present participle gerund":  "outleaping"
+    },
+    {
+        "BF": "output",
+        "Past Simple":  "output/outputted",
+        "Past participle":  "output/outputted",
+        "Third person singular":  "outputs",
+        "Present participle gerund":  "outputting"
+    },
+    {
+        "BF": "outride",
+        "Past Simple":  "outrode",
+        "Past participle":  "outridden",
+        "Third person singular":  "outrides",
+        "Present participle gerund":  "outriding"
+    },
+    {
+        "BF": "outrun",
+        "Past Simple":  "outran",
+        "Past participle":  "outrun",
+        "Third person singular":  "outruns",
+        "Present participle gerund":  "outrunning"
+    },
+    {
+        "BF": "outsee",
+        "Past Simple":  "outsaw",
+        "Past participle":  "outseen",
+        "Third person singular":  "outsees",
+        "Present participle gerund":  "outseeing"
+    },
+    {
+        "BF": "outsell",
+        "Past Simple":  "outsold",
+        "Past participle":  "outsold",
+        "Third person singular":  "outsells",
+        "Present participle gerund":  "outselling"
+    },
+    {
+        "BF": "outshine",
+        "Past Simple":  "outshone",
+        "Past participle":  "outshone",
+        "Third person singular":  "outshines",
+        "Present participle gerund":  "outshining"
+    },
+    {
+        "BF": "outshoot",
+        "Past Simple":  "outshot",
+        "Past participle":  "outshot",
+        "Third person singular":  "outshoots",
+        "Present participle gerund":  "outshooting"
+    },
+    {
+        "BF": "outsing",
+        "Past Simple":  "outsang",
+        "Past participle":  "outsung",
+        "Third person singular":  "outsings",
+        "Present participle gerund":  "outsinging"
+    },
+    {
+        "BF": "outsit",
+        "Past Simple":  "outsat",
+        "Past participle":  "outsat",
+        "Third person singular":  "outsits",
+        "Present participle gerund":  "outsitting"
+    },
+    {
+        "BF": "outsleep",
+        "Past Simple":  "outslept",
+        "Past participle":  "outslept",
+        "Third person singular":  "outsleeps",
+        "Present participle gerund":  "outsleeping"
+    },
+    {
+        "BF": "outsmell",
+        "Past Simple":  "outsmelt/outsmelled",
+        "Past participle":  "outsmelt/outsmelled",
+        "Third person singular":  "outsmells",
+        "Present participle gerund":  "outsmelling"
+    },
+    {
+        "BF": "outspeak",
+        "Past Simple":  "outspoke",
+        "Past participle":  "outspoken",
+        "Third person singular":  "outspeaks",
+        "Present participle gerund":  "outspeaking"
+    },
+    {
+        "BF": "outspeed",
+        "Past Simple":  "outsped",
+        "Past participle":  "outsped",
+        "Third person singular":  "outspeeds",
+        "Present participle gerund":  "outspeeding"
+    },
+    {
+        "BF": "outspend",
+        "Past Simple":  "outspent",
+        "Past participle":  "outspent",
+        "Third person singular":  "outspends",
+        "Present participle gerund":  "outspending"
+    },
+    {
+        "BF": "outspin",
+        "Past Simple":  "outspun",
+        "Past participle":  "outspun",
+        "Third person singular":  "outspins",
+        "Present participle gerund":  "outspinning"
+    },
+    {
+        "BF": "outspring",
+        "Past Simple":  "outsprang",
+        "Past participle":  "outsprung",
+        "Third person singular":  "outsprings",
+        "Present participle gerund":  "outspringing"
+    },
+    {
+        "BF": "outstand",
+        "Past Simple":  "outstood",
+        "Past participle":  "outstood",
+        "Third person singular":  "outstands",
+        "Present participle gerund":  "outstanding"
+    },
+    {
+        "BF": "outswear",
+        "Past Simple":  "outswore",
+        "Past participle":  "outsworn",
+        "Third person singular":  "outswears",
+        "Present participle gerund":  "outswearing"
+    },
+    {
+        "BF": "outswim",
+        "Past Simple":  "outswam",
+        "Past participle":  "outswum",
+        "Third person singular":  "outswims",
+        "Present participle gerund":  "outswimming"
+    },
+    {
+        "BF": "outtell",
+        "Past Simple":  "outtold",
+        "Past participle":  "outtold",
+        "Third person singular":  "outtells",
+        "Present participle gerund":  "outtelling"
+    },
+    {
+        "BF": "outthink",
+        "Past Simple":  "outthought",
+        "Past participle":  "outthought",
+        "Third person singular":  "outthinks",
+        "Present participle gerund":  "outthinking"
+    },
+    {
+        "BF": "outthrow",
+        "Past Simple":  "outthrew",
+        "Past participle":  "outthrown",
+        "Third person singular":  "outthrows",
+        "Present participle gerund":  "outthrowing"
+    },
+    {
+        "BF": "outwear",
+        "Past Simple":  "outwore",
+        "Past participle":  "outworn",
+        "Third person singular":  "outwears",
+        "Present participle gerund":  "outwearing"
+    },
+    {
+        "BF": "outwind",
+        "Past Simple":  "outwound",
+        "Past participle":  "outwound",
+        "Third person singular":  "outwinds",
+        "Present participle gerund":  "outwinding"
+    },
+    {
+        "BF": "outwork",
+        "Past Simple":  "outworked/outwrought",
+        "Past participle":  "outworked/outwrought",
+        "Third person singular":  "outworks",
+        "Present participle gerund":  "outworking"
+    },
+    {
+        "BF": "outwrite",
+        "Past Simple":  "outwrote",
+        "Past participle":  "outwritten",
+        "Third person singular":  "outwrites",
+        "Present participle gerund":  "outwriting"
+    },
+    {
+        "BF": "overbear",
+        "Past Simple":  "overbore",
+        "Past participle":  "overborne",
+        "Third person singular":  "overbears",
+        "Present participle gerund":  "overbearing"
+    },
+    {
+        "BF": "overbid",
+        "Past Simple":  "overbid",
+        "Past participle":  "overbid",
+        "Third person singular":  "overbids",
+        "Present participle gerund":  "overbidding"
+    },
+    {
+        "BF": "overblow",
+        "Past Simple":  "overblew",
+        "Past participle":  "overblown",
+        "Third person singular":  "overblows",
+        "Present participle gerund":  "overblowing"
+    },
+    {
+        "BF": "overbreed",
+        "Past Simple":  "overbred",
+        "Past participle":  "overbred",
+        "Third person singular":  "overbreeds",
+        "Present participle gerund":  "overbreeding"
+    },
+    {
+        "BF": "overbuild",
+        "Past Simple":  "overbuilt",
+        "Past participle":  "overbuilt",
+        "Third person singular":  "overbuilds",
+        "Present participle gerund":  "overbuilding"
+    },
+    {
+        "BF": "overbuy",
+        "Past Simple":  "overbought",
+        "Past participle":  "overbought",
+        "Third person singular":  "overbuys",
+        "Present participle gerund":  "overbuying"
+    },
+    {
+        "BF": "overcast",
+        "Past Simple":  "overcast",
+        "Past participle":  "overcast",
+        "Third person singular":  "overcasts",
+        "Present participle gerund":  "overcasting"
+    },
+    {
+        "BF": "overcome",
+        "Past Simple":  "overcame",
+        "Past participle":  "overcome",
+        "Third person singular":  "overcomes",
+        "Present participle gerund":  "overcoming"
+    },
+    {
+        "BF": "overcut",
+        "Past Simple":  "overcut",
+        "Past participle":  "overcut",
+        "Third person singular":  "overcuts",
+        "Present participle gerund":  "overcutting"
+    },
+    {
+        "BF": "overdo",
+        "Past Simple":  "overdid",
+        "Past participle":  "overdone",
+        "Third person singular":  "overdoes",
+        "Present participle gerund":  "overdoing"
+    },
+    {
+        "BF": "overdraw",
+        "Past Simple":  "overdrew",
+        "Past participle":  "overdrawn",
+        "Third person singular":  "overdraws",
+        "Present participle gerund":  "overdrawing"
+    },
+    {
+        "BF": "overdrink",
+        "Past Simple":  "overdrank",
+        "Past participle":  "overdrunk",
+        "Third person singular":  "overdrinks",
+        "Present participle gerund":  "overdrinking"
+    },
+    {
+        "BF": "overdrive",
+        "Past Simple":  "overdrove",
+        "Past participle":  "overdriven",
+        "Third person singular":  "overdrives",
+        "Present participle gerund":  "overdriving"
+    },
+    {
+        "BF": "overeat",
+        "Past Simple":  "overate",
+        "Past participle":  "overeaten",
+        "Third person singular":  "overeats",
+        "Present participle gerund":  "overeating"
+    },
+    {
+        "BF": "overfeed",
+        "Past Simple":  "overfed",
+        "Past participle":  "overfed",
+        "Third person singular":  "overfeeds",
+        "Present participle gerund":  "overfeeding"
+    },
+    {
+        "BF": "overfly",
+        "Past Simple":  "overflew",
+        "Past participle":  "overflown",
+        "Third person singular":  "overflies",
+        "Present participle gerund":  "overflying"
+    },
+    {
+        "BF": "overgrow",
+        "Past Simple":  "overgrew",
+        "Past participle":  "overgrown",
+        "Third person singular":  "overgrows",
+        "Present participle gerund":  "overgrowing"
+    },
+    {
+        "BF": "overhang",
+        "Past Simple":  "overhung",
+        "Past participle":  "overhung",
+        "Third person singular":  "overhangs",
+        "Present participle gerund":  "overhanging"
+    },
+    {
+        "BF": "overhear",
+        "Past Simple":  "overheard",
+        "Past participle":  "overheard",
+        "Third person singular":  "overhears",
+        "Present participle gerund":  "overhearing"
+    },
+    {
+        "BF": "overlay",
+        "Past Simple":  "overlaid",
+        "Past participle":  "overlaid",
+        "Third person singular":  "overlays",
+        "Present participle gerund":  "overlaying"
+    },
+    {
+        "BF": "overleap",
+        "Past Simple":  "overleapt/overleaped",
+        "Past participle":  "overleapt/overleaped",
+        "Third person singular":  "overleaps",
+        "Present participle gerund":  "overleaping"
+    },
+    {
+        "BF": "overlearn",
+        "Past Simple":  "overlearnt/overlearned",
+        "Past participle":  "overlearnt/overlearned",
+        "Third person singular":  "overlearns",
+        "Present participle gerund":  "overlearning"
+    },
+    {
+        "BF": "overlie",
+        "Past Simple":  "overlay",
+        "Past participle":  "overlain",
+        "Third person singular":  "overlies",
+        "Present participle gerund":  "overlying"
+    },
+    {
+        "BF": "overpass",
+        "Past Simple":  "overpast/overpassed",
+        "Past participle":  "overpast/overpassed",
+        "Third person singular":  "overpasses",
+        "Present participle gerund":  "overpassing"
+    },
+    {
+        "BF": "overpay",
+        "Past Simple":  "overpaid",
+        "Past participle":  "overpaid",
+        "Third person singular":  "overpays",
+        "Present participle gerund":  "overpaying"
+    },
+    {
+        "BF": "override",
+        "Past Simple":  "overrode",
+        "Past participle":  "overridden",
+        "Third person singular":  "overrides",
+        "Present participle gerund":  "overriding"
+    },
+    {
+        "BF": "overrun",
+        "Past Simple":  "overran",
+        "Past participle":  "overrun",
+        "Third person singular":  "overruns",
+        "Present participle gerund":  "overrunning"
+    },
+    {
+        "BF": "oversee",
+        "Past Simple":  "oversaw",
+        "Past participle":  "overseen",
+        "Third person singular":  "oversees",
+        "Present participle gerund":  "overseeing"
+    },
+    {
+        "BF": "oversell",
+        "Past Simple":  "oversold",
+        "Past participle":  "oversold",
+        "Third person singular":  "oversells",
+        "Present participle gerund":  "overselling"
+    },
+    {
+        "BF": "overset",
+        "Past Simple":  "overset",
+        "Past participle":  "overset",
+        "Third person singular":  "oversets",
+        "Present participle gerund":  "oversetting"
+    },
+    {
+        "BF": "oversew",
+        "Past Simple":  "oversewed",
+        "Past participle":  "oversewn/oversewed",
+        "Third person singular":  "oversews",
+        "Present participle gerund":  "oversewing"
+    },
+    {
+        "BF": "overshoot",
+        "Past Simple":  "overshot",
+        "Past participle":  "overshot",
+        "Third person singular":  "overshoots",
+        "Present participle gerund":  "overshooting"
+    },
+    {
+        "BF": "oversleep",
+        "Past Simple":  "overslept",
+        "Past participle":  "overslept",
+        "Third person singular":  "oversleeps",
+        "Present participle gerund":  "oversleeping"
+    },
+    {
+        "BF": "oversow",
+        "Past Simple":  "oversowed",
+        "Past participle":  "oversown/oversowed",
+        "Third person singular":  "oversows",
+        "Present participle gerund":  "oversowing"
+    },
+    {
+        "BF": "overspeak",
+        "Past Simple":  "overspoke",
+        "Past participle":  "overspoken",
+        "Third person singular":  "overspeaks",
+        "Present participle gerund":  "overspeaking"
+    },
+    {
+        "BF": "overspend",
+        "Past Simple":  "overspent",
+        "Past participle":  "overspent",
+        "Third person singular":  "overspends",
+        "Present participle gerund":  "overspending"
+    },
+    {
+        "BF": "overspill",
+        "Past Simple":  "overspilt/overspilled",
+        "Past participle":  "overspilt/overspilled",
+        "Third person singular":  "overspills",
+        "Present participle gerund":  "overspilling"
+    },
+    {
+        "BF": "overspin",
+        "Past Simple":  "overspun",
+        "Past participle":  "overspun",
+        "Third person singular":  "overspins",
+        "Present participle gerund":  "overspinning"
+    },
+    {
+        "BF": "overspread",
+        "Past Simple":  "overspread",
+        "Past participle":  "overspread",
+        "Third person singular":  "overspreads",
+        "Present participle gerund":  "overspreading"
+    },
+    {
+        "BF": "overspring",
+        "Past Simple":  "oversprang",
+        "Past participle":  "oversprung",
+        "Third person singular":  "oversprings",
+        "Present participle gerund":  "overspringing"
+    },
+    {
+        "BF": "overstand",
+        "Past Simple":  "overstood",
+        "Past participle":  "overstood",
+        "Third person singular":  "overstands",
+        "Present participle gerund":  "overstanding"
+    },
+    {
+        "BF": "overstrew",
+        "Past Simple":  "overstrewed",
+        "Past participle":  "overstrewed/overstrewn",
+        "Third person singular":  "overstrews",
+        "Present participle gerund":  "overstrewing"
+    },
+    {
+        "BF": "overstride",
+        "Past Simple":  "overstrode",
+        "Past participle":  "overstridden",
+        "Third person singular":  "overstrides",
+        "Present participle gerund":  "overstriding"
+    },
+    {
+        "BF": "overstrike",
+        "Past Simple":  "overstruck",
+        "Past participle":  "overstruck",
+        "Third person singular":  "overstrikes",
+        "Present participle gerund":  "overstriking"
+    },
+    {
+        "BF": "overstring",
+        "Past Simple":  "overstrung",
+        "Past participle":  "overstrung",
+        "Third person singular":  "overstrings",
+        "Present participle gerund":  "overstringing"
+    },
+    {
+        "BF": "overtake",
+        "Past Simple":  "overtook",
+        "Past participle":  "overtaken",
+        "Third person singular":  "overtakes",
+        "Present participle gerund":  "overtaking"
+    },
+    {
+        "BF": "overthink",
+        "Past Simple":  "overthought",
+        "Past participle":  "overthought",
+        "Third person singular":  "overthinks",
+        "Present participle gerund":  "overthinking"
+    },
+    {
+        "BF": "overthrow",
+        "Past Simple":  "overthrew",
+        "Past participle":  "overthrown",
+        "Third person singular":  "overthrows",
+        "Present participle gerund":  "overthrowing"
+    },
+    {
+        "BF": "overwear",
+        "Past Simple":  "overwore",
+        "Past participle":  "overworn",
+        "Third person singular":  "overwears",
+        "Present participle gerund":  "overwearing"
+    },
+    {
+        "BF": "overwind",
+        "Past Simple":  "overwound",
+        "Past participle":  "overwound",
+        "Third person singular":  "overwinds",
+        "Present participle gerund":  "overwinding"
+    },
+    {
+        "BF": "overwithhold",
+        "Past Simple":  "overwithheld",
+        "Past participle":  "overwithheld",
+        "Third person singular":  "overwithholds",
+        "Present participle gerund":  "overwithholding"
+    },
+    {
+        "BF": "overwrite",
+        "Past Simple":  "overwrote",
+        "Past participle":  "overwritten",
+        "Third person singular":  "overwrites",
+        "Present participle gerund":  "overwriting"
+    },
+    {
+        "BF": "partake",
+        "Past Simple":  "partook",
+        "Past participle":  "partaken",
+        "Third person singular":  "partakes",
+        "Present participle gerund":  "partaking"
+    },
+    {
+        "BF": "pay",
+        "Past Simple":  "paid",
+        "Past participle":  "paid",
+        "Third person singular":  "pays",
+        "Present participle gerund":  "paying"
+    },
+    {
+        "BF": "pen",
+        "Past Simple":  "pent/penned",
+        "Past participle":  "pent/penned",
+        "Third person singular":  "pens",
+        "Present participle gerund":  "penning"
+    },
+    {
+        "BF": "pinch-hit",
+        "Past Simple":  "pinch-hit",
+        "Past participle":  "pinch-hit",
+        "Third person singular":  "pinch-hits",
+        "Present participle gerund":  "pinch-hitting"
+    },
+    {
+        "BF": "plead",
+        "Past Simple":  "pled/pleaded",
+        "Past participle":  "pled/pleaded",
+        "Third person singular":  "pleads",
+        "Present participle gerund":  "pleading"
+    },
+    {
+        "BF": "potshot",
+        "Past Simple":  "potshot/potshotted",
+        "Past participle":  "potshot",
+        "Third person singular":  "potshots",
+        "Present participle gerund":  "potshotting"
+    },
+    {
+        "BF": "practice-teach",
+        "Past Simple":  "practice-taught",
+        "Past participle":  "practice-taught",
+        "Third person singular":  "practice-teaches",
+        "Present participle gerund":  "practice-teaching"
+    },
+    {
+        "BF": "prebind",
+        "Past Simple":  "prebound",
+        "Past participle":  "prebound",
+        "Third person singular":  "prebinds",
+        "Present participle gerund":  "prebinding"
+    },
+    {
+        "BF": "prebuild",
+        "Past Simple":  "prebuilt",
+        "Past participle":  "prebuilt",
+        "Third person singular":  "prebuilds",
+        "Present participle gerund":  "prebuilding"
+    },
+    {
+        "BF": "precut",
+        "Past Simple":  "precut",
+        "Past participle":  "precut",
+        "Third person singular":  "precuts",
+        "Present participle gerund":  "precutting"
+    },
+    {
+        "BF": "predo",
+        "Past Simple":  "predid",
+        "Past participle":  "predone",
+        "Third person singular":  "predoes",
+        "Present participle gerund":  "predoing"
+    },
+    {
+        "BF": "premake",
+        "Past Simple":  "premade",
+        "Past participle":  "premade",
+        "Third person singular":  "premakes",
+        "Present participle gerund":  "premaking"
+    },
+    {
+        "BF": "prepay",
+        "Past Simple":  "prepaid",
+        "Past participle":  "prepaid",
+        "Third person singular":  "prepays",
+        "Present participle gerund":  "prepaying"
+    },
+    {
+        "BF": "presell",
+        "Past Simple":  "presold",
+        "Past participle":  "presold",
+        "Third person singular":  "presells",
+        "Present participle gerund":  "preselling"
+    },
+    {
+        "BF": "preset",
+        "Past Simple":  "preset",
+        "Past participle":  "preset",
+        "Third person singular":  "prests",
+        "Present participle gerund":  "presetting"
+    },
+    {
+        "BF": "preshrink",
+        "Past Simple":  "preshrank",
+        "Past participle":  "preshrunk",
+        "Third person singular":  "preshrinks",
+        "Present participle gerund":  "preshrinking"
+    },
+    {
+        "BF": "presplit",
+        "Past Simple":  "presplit",
+        "Past participle":  "presplit",
+        "Third person singular":  "presplits",
+        "Present participle gerund":  "presplitting"
+    },
+    {
+        "BF": "price-cut",
+        "Past Simple":  "price-cut",
+        "Past participle":  "price-cut",
+        "Third person singular":  "price-cuts",
+        "Present participle gerund":  "price-cutting"
+    },
+    {
+        "BF": "proofread",
+        "Past Simple":  "proofread",
+        "Past participle":  "proofread",
+        "Third person singular":  "proofreads",
+        "Present participle gerund":  "proofreading"
+    },
+    {
+        "BF": "prove",
+        "Past Simple":  "proved",
+        "Past participle":  "proven/proved",
+        "Third person singular":  "proves",
+        "Present participle gerund":  "proving"
+    },
+    {
+        "BF": "put",
+        "Past Simple":  "put",
+        "Past participle":  "put",
+        "Third person singular":  "puts",
+        "Present participle gerund":  "putting"
+    },
+    {
+        "BF": "quick-freeze",
+        "Past Simple":  "quick-froze",
+        "Past participle":  "quick-frozen",
+        "Third person singular":  "quick-freezes",
+        "Present participle gerund":  "quick-freezing"
+    },
+    {
+        "BF": "quit",
+        "Past Simple":  "quit",
+        "Past participle":  "quit",
+        "Third person singular":  "quits",
+        "Present participle gerund":  "quitting"
+    },
+    {
+        "BF": "rap",
+        "Past Simple":  "rapped/rapt",
+        "Past participle":  "rapped/rapt",
+        "Third person singular":  "raps",
+        "Present participle gerund":  "rapping"
+    },
+    {
+        "BF": "re-prove",
+        "Past Simple":  "re-proved",
+        "Past participle":  "re-proven/re-proved",
+        "Third person singular":  "re-proves",
+        "Present participle gerund":  "re-proving"
+    },
+    {
+        "BF": "read",
+        "Past Simple":  "read",
+        "Past participle":  "read",
+        "Third person singular":  "reads",
+        "Present participle gerund":  "reading"
+    },
+    {
+        "BF": "reave",
+        "Past Simple":  "reft/reaved",
+        "Past participle":  "reft/reaved",
+        "Third person singular":  "reaves",
+        "Present participle gerund":  "reaving"
+    },
+    {
+        "BF": "reawake",
+        "Past Simple":  "reawoke",
+        "Past participle":  "reawoken/reawaken",
+        "Third person singular":  "reawakes",
+        "Present participle gerund":  "reawaking"
+    },
+    {
+        "BF": "rebid",
+        "Past Simple":  "rebid",
+        "Past participle":  "rebid",
+        "Third person singular":  "rebids",
+        "Present participle gerund":  "rebidding"
+    },
+    {
+        "BF": "rebind",
+        "Past Simple":  "rebound",
+        "Past participle":  "rebound",
+        "Third person singular":  "rebinds",
+        "Present participle gerund":  "rebinding"
+    },
+    {
+        "BF": "rebroadcast",
+        "Past Simple":  "rebroadcast",
+        "Past participle":  "rebroadcast",
+        "Third person singular":  "rebroadcasts",
+        "Present participle gerund":  "rebroadcasting"
+    },
+    {
+        "BF": "rebuild",
+        "Past Simple":  "rebuilt",
+        "Past participle":  "rebuilt",
+        "Third person singular":  "rebuilds",
+        "Present participle gerund":  "rebuilding"
+    },
+    {
+        "BF": "recast",
+        "Past Simple":  "recast",
+        "Past participle":  "recast",
+        "Third person singular":  "recasts",
+        "Present participle gerund":  "recasting"
+    },
+    {
+        "BF": "recut",
+        "Past Simple":  "recut",
+        "Past participle":  "recut",
+        "Third person singular":  "recuts",
+        "Present participle gerund":  "recutting"
+    },
+    {
+        "BF": "redd",
+        "Past Simple":  "redd/redded",
+        "Past participle":  "redd/redded",
+        "Third person singular":  "redds",
+        "Present participle gerund":  "redding"
+    },
+    {
+        "BF": "redeal",
+        "Past Simple":  "redealt",
+        "Past participle":  "redealt",
+        "Third person singular":  "redeals",
+        "Present participle gerund":  "redealing"
+    },
+    {
+        "BF": "redo",
+        "Past Simple":  "redid",
+        "Past participle":  "redone",
+        "Third person singular":  "redoes",
+        "Present participle gerund":  "redoing"
+    },
+    {
+        "BF": "redraw",
+        "Past Simple":  "redrew",
+        "Past participle":  "redrawn",
+        "Third person singular":  "redraws",
+        "Present participle gerund":  "redrawing"
+    },
+    {
+        "BF": "reeve",
+        "Past Simple":  "rove/reeved",
+        "Past participle":  "rove/reeved",
+        "Third person singular":  "reeves",
+        "Present participle gerund":  "reeving"
+    },
+    {
+        "BF": "refit",
+        "Past Simple":  "refit",
+        "Past participle":  "refit",
+        "Third person singular":  "refits",
+        "Present participle gerund":  "refitting"
+    },
+    {
+        "BF": "regrind",
+        "Past Simple":  "reground",
+        "Past participle":  "reground",
+        "Third person singular":  "regrinds",
+        "Present participle gerund":  "regrinding"
+    },
+    {
+        "BF": "regrow",
+        "Past Simple":  "regrew",
+        "Past participle":  "regrown",
+        "Third person singular":  "regrows",
+        "Present participle gerund":  "regrowing"
+    },
+    {
+        "BF": "rehang",
+        "Past Simple":  "rehung",
+        "Past participle":  "rehung",
+        "Third person singular":  "rehangs",
+        "Present participle gerund":  "rehanging"
+    },
+    {
+        "BF": "rehear",
+        "Past Simple":  "reheard",
+        "Past participle":  "reheard",
+        "Third person singular":  "rehears",
+        "Present participle gerund":  "rehearing"
+    },
+    {
+        "BF": "reknit",
+        "Past Simple":  "reknit/reknitted",
+        "Past participle":  "reknit/reknitted",
+        "Third person singular":  "reknits",
+        "Present participle gerund":  "reknitting"
+    },
+    {
+        "BF": "relay",
+        "Past Simple":  "relaid",
+        "Past participle":  "relaid",
+        "Third person singular":  "relays",
+        "Present participle gerund":  "relaying"
+    },
+    {
+        "BF": "relearn",
+        "Past Simple":  "relearnt/relearned",
+        "Past participle":  "relearnt/relearned",
+        "Third person singular":  "relearn",
+        "Present participle gerund":  "relearn"
+    },
+    {
+        "BF": "relight",
+        "Past Simple":  "relit/relighted",
+        "Past participle":  "relit/relighted",
+        "Third person singular":  "relights",
+        "Present participle gerund":  "relighting"
+    },
+    {
+        "BF": "remake",
+        "Past Simple":  "remade",
+        "Past participle":  "remade",
+        "Third person singular":  "remakes",
+        "Present participle gerund":  "remaking"
+    },
+    {
+        "BF": "rend",
+        "Past Simple":  "rent",
+        "Past participle":  "rent",
+        "Third person singular":  "rends",
+        "Present participle gerund":  "rending"
+    },
+    {
+        "BF": "repay",
+        "Past Simple":  "repaid",
+        "Past participle":  "repaid",
+        "Third person singular":  "repays",
+        "Present participle gerund":  "repaying"
+    },
+    {
+        "BF": "reread",
+        "Past Simple":  "reread",
+        "Past participle":  "reread",
+        "Third person singular":  "rereads",
+        "Present participle gerund":  "rereading"
+    },
+    {
+        "BF": "rerun",
+        "Past Simple":  "reran",
+        "Past participle":  "rerun",
+        "Third person singular":  "reruns",
+        "Present participle gerund":  "rerunning"
+    },
+    {
+        "BF": "resell",
+        "Past Simple":  "resold",
+        "Past participle":  "resold",
+        "Third person singular":  "resells",
+        "Present participle gerund":  "reselling"
+    },
+    {
+        "BF": "resend",
+        "Past Simple":  "resent",
+        "Past participle":  "resent",
+        "Third person singular":  "resends",
+        "Present participle gerund":  "resending"
+    },
+    {
+        "BF": "reset",
+        "Past Simple":  "reset",
+        "Past participle":  "reset",
+        "Third person singular":  "resets",
+        "Present participle gerund":  "resetting"
+    },
+    {
+        "BF": "resew",
+        "Past Simple":  "resewed",
+        "Past participle":  "resewn/reswed",
+        "Third person singular":  "resews",
+        "Present participle gerund":  "resewing"
+    },
+    {
+        "BF": "reshoot",
+        "Past Simple":  "reshot",
+        "Past participle":  "reshot",
+        "Third person singular":  "reshoots",
+        "Present participle gerund":  "reshooting"
+    },
+    {
+        "BF": "resit",
+        "Past Simple":  "resat",
+        "Past participle":  "resat",
+        "Third person singular":  "resits",
+        "Present participle gerund":  "resitting"
+    },
+    {
+        "BF": "resow",
+        "Past Simple":  "resowed",
+        "Past participle":  "resown/resowed",
+        "Third person singular":  "resows",
+        "Present participle gerund":  "resowing"
+    },
+    {
+        "BF": "respell",
+        "Past Simple":  "respelled/respelt",
+        "Past participle":  "respelled/respelt",
+        "Third person singular":  "respells",
+        "Present participle gerund":  "respelling"
+    },
+    {
+        "BF": "restring",
+        "Past Simple":  "restrung",
+        "Past participle":  "restrung",
+        "Third person singular":  "restrings",
+        "Present participle gerund":  "restringing"
+    },
+    {
+        "BF": "retake",
+        "Past Simple":  "retook",
+        "Past participle":  "retaken",
+        "Third person singular":  "retakes",
+        "Present participle gerund":  "retaking"
+    },
+    {
+        "BF": "reteach",
+        "Past Simple":  "retaught",
+        "Past participle":  "retaught",
+        "Third person singular":  "reteaches",
+        "Present participle gerund":  "reteaching"
+    },
+    {
+        "BF": "retear",
+        "Past Simple":  "retore",
+        "Past participle":  "retorn",
+        "Third person singular":  "retears",
+        "Present participle gerund":  "retearing"
+    },
+    {
+        "BF": "retell",
+        "Past Simple":  "retold",
+        "Past participle":  "retold",
+        "Third person singular":  "retells",
+        "Present participle gerund":  "retelling"
+    },
+    {
+        "BF": "rethink",
+        "Past Simple":  "rethought",
+        "Past participle":  "rethought",
+        "Third person singular":  "rethinks",
+        "Present participle gerund":  "rethinking"
+    },
+    {
+        "BF": "retread",
+        "Past Simple":  "retrod",
+        "Past participle":  "retrodden",
+        "Third person singular":  "retreads",
+        "Present participle gerund":  "retreading"
+    },
+    {
+        "BF": "retrofit",
+        "Past Simple":  "retrofit/retrofitted",
+        "Past participle":  "retrofit/retrofitted",
+        "Third person singular":  "retrofits",
+        "Present participle gerund":  "retrofitting"
+    },
+    {
+        "BF": "rewake",
+        "Past Simple":  "rewoke/rewaked",
+        "Past participle":  "rewoken/rewaked",
+        "Third person singular":  "rewakes",
+        "Present participle gerund":  "rewaking"
+    },
+    {
+        "BF": "rewear",
+        "Past Simple":  "rewore",
+        "Past participle":  "reworn",
+        "Third person singular":  "rewears",
+        "Present participle gerund":  "rewearing"
+    },
+    {
+        "BF": "reweave",
+        "Past Simple":  "rewove/reweaved",
+        "Past participle":  "rewoven/reweaved",
+        "Third person singular":  "reweaves",
+        "Present participle gerund":  "reweaving"
+    },
+    {
+        "BF": "rewed",
+        "Past Simple":  "rewed/rewedded",
+        "Past participle":  "rewed/rewedded",
+        "Third person singular":  "reweds",
+        "Present participle gerund":  "rewedding"
+    },
+    {
+        "BF": "rewet",
+        "Past Simple":  "rewet/rewetted",
+        "Past participle":  "rewet/rewetted",
+        "Third person singular":  "rewets",
+        "Present participle gerund":  "rewetting"
+    },
+    {
+        "BF": "rewin",
+        "Past Simple":  "rewon",
+        "Past participle":  "rewon",
+        "Third person singular":  "rewins",
+        "Present participle gerund":  "rewinning"
+    },
+    {
+        "BF": "rewind",
+        "Past Simple":  "rewound",
+        "Past participle":  "rewound",
+        "Third person singular":  "rewinds",
+        "Present participle gerund":  "rewinding"
+    },
+    {
+        "BF": "rewrite",
+        "Past Simple":  "rewrote",
+        "Past participle":  "rewritten",
+        "Third person singular":  "rewrites",
+        "Present participle gerund":  "rewriting"
+    },
+    {
+        "BF": "rid",
+        "Past Simple":  "rid/ridded",
+        "Past participle":  "rid/ridded",
+        "Third person singular":  "rids",
+        "Present participle gerund":  "ridding"
+    },
+    {
+        "BF": "ride",
+        "Past Simple":  "rode",
+        "Past participle":  "ridden",
+        "Third person singular":  "rides",
+        "Present participle gerund":  "riding"
+    },
+    {
+        "BF": "ring",
+        "Past Simple":  "rang",
+        "Past participle":  "rung",
+        "Third person singular":  "rings",
+        "Present participle gerund":  "ringing"
+    },
+    {
+        "BF": "rise",
+        "Past Simple":  "rose",
+        "Past participle":  "risen",
+        "Third person singular":  "rises",
+        "Present participle gerund":  "rising"
+    },
+    {
+        "BF": "rive",
+        "Past Simple":  "rived",
+        "Past participle":  "riven/rived",
+        "Third person singular":  "rives",
+        "Present participle gerund":  "riving"
+    },
+    {
+        "BF": "rough-hew",
+        "Past Simple":  "rough-hewed",
+        "Past participle":  "rough-hewn",
+        "Third person singular":  "rough-hews",
+        "Present participle gerund":  "rough-hewing"
+    },
+    {
+        "BF": "roughcast",
+        "Past Simple":  "roughcast",
+        "Past participle":  "roughcast",
+        "Third person singular":  "roughcasts",
+        "Present participle gerund":  "roughcasting"
+    },
+    {
+        "BF": "run",
+        "Past Simple":  "ran",
+        "Past participle":  "run",
+        "Third person singular":  "runs",
+        "Present participle gerund":  "running"
+    },
+    {
+        "BF": "sand-cast",
+        "Past Simple":  "sand-cast",
+        "Past participle":  "sand-cast",
+        "Third person singular":  "sand-casts",
+        "Present participle gerund":  "sand-casting"
+    },
+    {
+        "BF": "saw",
+        "Past Simple":  "sawed",
+        "Past participle":  "sawn/sawed",
+        "Third person singular":  "saws",
+        "Present participle gerund":  "sawing"
+    },
+    {
+        "BF": "say",
+        "Past Simple":  "said",
+        "Past participle":  "said",
+        "Third person singular":  "says",
+        "Present participle gerund":  "saying"
+    },
+    {
+        "BF": "see",
+        "Past Simple":  "saw",
+        "Past participle":  "seen",
+        "Third person singular":  "sees",
+        "Present participle gerund":  "seeing"
+    },
+    {
+        "BF": "seek",
+        "Past Simple":  "sought",
+        "Past participle":  "sought",
+        "Third person singular":  "seeks",
+        "Present participle gerund":  "seeking"
+    },
+    {
+        "BF": "self-feed",
+        "Past Simple":  "self-fed",
+        "Past participle":  "self-fed",
+        "Third person singular":  "self-feeds",
+        "Present participle gerund":  "self-feeding"
+    },
+    {
+        "BF": "self-sow",
+        "Past Simple":  "self-sowed",
+        "Past participle":  "self-sown/self-sowed",
+        "Third person singular":  "self-sows",
+        "Present participle gerund":  "self-sowing"
+    },
+    {
+        "BF": "sell",
+        "Past Simple":  "sold",
+        "Past participle":  "sold",
+        "Third person singular":  "sells",
+        "Present participle gerund":  "selling"
+    },
+    {
+        "BF": "send",
+        "Past Simple":  "sent",
+        "Past participle":  "sent",
+        "Third person singular":  "sends",
+        "Present participle gerund":  "sending"
+    },
+    {
+        "BF": "set",
+        "Past Simple":  "set",
+        "Past participle":  "set",
+        "Third person singular":  "sets",
+        "Present participle gerund":  "setting"
+    },
+    {
+        "BF": "sew",
+        "Past Simple":  "sewed",
+        "Past participle":  "sewn/sewed",
+        "Third person singular":  "sews",
+        "Present participle gerund":  "sewing"
+    },
+    {
+        "BF": "shake",
+        "Past Simple":  "shook",
+        "Past participle":  "shaken",
+        "Third person singular":  "shakes",
+        "Present participle gerund":  "shaking"
+    },
+    {
+        "BF": "shave",
+        "Past Simple":  "shaved",
+        "Past participle":  "shaven/shaved",
+        "Third person singular":  "shaves",
+        "Present participle gerund":  "shaving"
+    },
+    {
+        "BF": "shear",
+        "Past Simple":  "shore/sheared",
+        "Past participle":  "shorn/sheared",
+        "Third person singular":  "shears",
+        "Present participle gerund":  "shearing"
+    },
+    {
+        "BF": "shed",
+        "Past Simple":  "shed",
+        "Past participle":  "shed",
+        "Third person singular":  "sheds",
+        "Present participle gerund":  "shedding"
+    },
+    {
+        "BF": "shend",
+        "Past Simple":  "shent",
+        "Past participle":  "shent",
+        "Third person singular":  "shends",
+        "Present participle gerund":  "shending"
+    },
+    {
+        "BF": "shew",
+        "Past Simple":  "shewed",
+        "Past participle":  "shewn/shewed",
+        "Third person singular":  "shews",
+        "Present participle gerund":  "shewing"
+    },
+    {
+        "BF": "shine",
+        "Past Simple":  "shone",
+        "Past participle":  "shone",
+        "Third person singular":  "shines",
+        "Present participle gerund":  "shining"
+    },
+    {
+        "BF": "shit",
+        "Past Simple":  "shat/shit",
+        "Past participle":  "shat/shit",
+        "Third person singular":  "shits",
+        "Present participle gerund":  "shitting"
+    },
+    {
+        "BF": "shoe",
+        "Past Simple":  "shod",
+        "Past participle":  "shod",
+        "Third person singular":  "shoes",
+        "Present participle gerund":  "shoeing"
+    },
+    {
+        "BF": "shoot",
+        "Past Simple":  "shot",
+        "Past participle":  "shot",
+        "Third person singular":  "shoots",
+        "Present participle gerund":  "shooting"
+    },
+    {
+        "BF": "shortcut",
+        "Past Simple":  "shortcut",
+        "Past participle":  "shortcut",
+        "Third person singular":  "shortcuts",
+        "Present participle gerund":  "shortcutting"
+    },
+    {
+        "BF": "show",
+        "Past Simple":  "showed",
+        "Past participle":  "shown",
+        "Third person singular":  "shows",
+        "Present participle gerund":  "showing"
+    },
+    {
+        "BF": "shrink",
+        "Past Simple":  "shrank",
+        "Past participle":  "shrunk",
+        "Third person singular":  "shrinks",
+        "Present participle gerund":  "shrinking"
+    },
+    {
+        "BF": "shrive",
+        "Past Simple":  "shrove",
+        "Past participle":  "shriven",
+        "Third person singular":  "shrives",
+        "Present participle gerund":  "shriving"
+    },
+    {
+        "BF": "shut",
+        "Past Simple":  "shut",
+        "Past participle":  "shut",
+        "Third person singular":  "shuts",
+        "Present participle gerund":  "shutting"
+    },
+    {
+        "BF": "sidewind",
+        "Past Simple":  "sidewound",
+        "Past participle":  "sidewound",
+        "Third person singular":  "sidewinds",
+        "Present participle gerund":  "sidewinding"
+    },
+    {
+        "BF": "sight-read",
+        "Past Simple":  "sight-read",
+        "Past participle":  "sight-read",
+        "Third person singular":  "sight-reads",
+        "Present participle gerund":  "sight-reading"
+    },
+    {
+        "BF": "sightsee",
+        "Past Simple":  "sightsaw",
+        "Past participle":  "sightseen",
+        "Third person singular":  "sightsees",
+        "Present participle gerund":  "sightseeing"
+    },
+    {
+        "BF": "sing",
+        "Past Simple":  "sang",
+        "Past participle":  "sung",
+        "Third person singular":  "sings",
+        "Present participle gerund":  "singing"
+    },
+    {
+        "BF": "sink",
+        "Past Simple":  "sank",
+        "Past participle":  "sunk",
+        "Third person singular":  "sinks",
+        "Present participle gerund":  "sinking"
+    },
+    {
+        "BF": "sit",
+        "Past Simple":  "sat",
+        "Past participle":  "sat",
+        "Third person singular":  "sits",
+        "Present participle gerund":  "sitting"
+    },
+    {
+        "BF": "skywrite",
+        "Past Simple":  "skywrote",
+        "Past participle":  "skywritten",
+        "Third person singular":  "skywrites",
+        "Present participle gerund":  "skywriting"
+    },
+    {
+        "BF": "slay",
+        "Past Simple":  "slew",
+        "Past participle":  "slain",
+        "Third person singular":  "slays",
+        "Present participle gerund":  "slaying"
+    },
+    {
+        "BF": "sleep",
+        "Past Simple":  "slept",
+        "Past participle":  "slept",
+        "Third person singular":  "sleeps",
+        "Present participle gerund":  "sleeping"
+    },
+    {
+        "BF": "slide",
+        "Past Simple":  "slid",
+        "Past participle":  "slid/slidden",
+        "Third person singular":  "slides",
+        "Present participle gerund":  "sliding"
+    },
+    {
+        "BF": "sling",
+        "Past Simple":  "slung",
+        "Past participle":  "slung",
+        "Third person singular":  "slings",
+        "Present participle gerund":  "slinging"
+    },
+    {
+        "BF": "slink",
+        "Past Simple":  "slunk",
+        "Past participle":  "slunk",
+        "Third person singular":  "slinks",
+        "Present participle gerund":  "slinking"
+    },
+    {
+        "BF": "slit",
+        "Past Simple":  "slit",
+        "Past participle":  "slit",
+        "Third person singular":  "slits",
+        "Present participle gerund":  "slitting"
+    },
+    {
+        "BF": "smell",
+        "Past Simple":  "smelt/smelled",
+        "Past participle":  "smelt/smelled",
+        "Third person singular":  "smells",
+        "Present participle gerund":  "smelling"
+    },
+    {
+        "BF": "smite",
+        "Past Simple":  "smote",
+        "Past participle":  "smitten",
+        "Third person singular":  "smites",
+        "Present participle gerund":  "smiting"
+    },
+    {
+        "BF": "snapshoot",
+        "Past Simple":  "snapshot",
+        "Past participle":  "snapshot",
+        "Third person singular":  "snapshoots",
+        "Present participle gerund":  "snapshooting"
+    },
+    {
+        "BF": "sneak",
+        "Past Simple":  "sneaked/snuck",
+        "Past participle":  "sneaked/snuck",
+        "Third person singular":  "sneaks",
+        "Present participle gerund":  "sneaking"
+    },
+    {
+        "BF": "soothsay",
+        "Past Simple":  "soothsaid",
+        "Past participle":  "soothsaid",
+        "Third person singular":  "soothsays",
+        "Present participle gerund":  "soothsaying"
+    },
+    {
+        "BF": "sow",
+        "Past Simple":  "sowed",
+        "Past participle":  "sown",
+        "Third person singular":  "sows",
+        "Present participle gerund":  "sowing"
+    },
+    {
+        "BF": "speak",
+        "Past Simple":  "spoke",
+        "Past participle":  "spoken",
+        "Third person singular":  "speaks",
+        "Present participle gerund":  "speaking"
+    },
+    {
+        "BF": "speed",
+        "Past Simple":  "sped/speeded",
+        "Past participle":  "sped/speeded",
+        "Third person singular":  "speeds",
+        "Present participle gerund":  "speeding"
+    },
+    {
+        "BF": "spell",
+        "Past Simple":  "spelt/spelled",
+        "Past participle":  "spelt/spelled",
+        "Third person singular":  "spells",
+        "Present participle gerund":  "spelling"
+    },
+    {
+        "BF": "spellbind",
+        "Past Simple":  "spellbound",
+        "Past participle":  "spellbound",
+        "Third person singular":  "spellbinds",
+        "Present participle gerund":  "spellbinding"
+    },
+    {
+        "BF": "spend",
+        "Past Simple":  "spent",
+        "Past participle":  "spent",
+        "Third person singular":  "spends",
+        "Present participle gerund":  "spending"
+    },
+    {
+        "BF": "spill",
+        "Past Simple":  "spilt/spilled",
+        "Past participle":  "spilt/spilled",
+        "Third person singular":  "spills",
+        "Present participle gerund":  "spilling"
+    },
+    {
+        "BF": "spin",
+        "Past Simple":  "span/spun",
+        "Past participle":  "spun",
+        "Third person singular":  "spins",
+        "Present participle gerund":  "spinning"
+    },
+    {
+        "BF": "spit",
+        "Past Simple":  "spat/spit",
+        "Past participle":  "spat/spit",
+        "Third person singular":  "spits",
+        "Present participle gerund":  "spitting"
+    },
+    {
+        "BF": "split",
+        "Past Simple":  "split",
+        "Past participle":  "split",
+        "Third person singular":  "splits",
+        "Present participle gerund":  "splitting"
+    },
+    {
+        "BF": "spoil",
+        "Past Simple":  "spoilt/spoiled",
+        "Past participle":  "spoilt/spoiled",
+        "Third person singular":  "spoils",
+        "Present participle gerund":  "spoiling"
+    },
+    {
+        "BF": "spoonfeed",
+        "Past Simple":  "spoonfed",
+        "Past participle":  "spoonfed",
+        "Third person singular":  "spoonfeeds",
+        "Present participle gerund":  "spoonfeeding"
+    },
+    {
+        "BF": "spread",
+        "Past Simple":  "spread",
+        "Past participle":  "spread",
+        "Third person singular":  "spreads",
+        "Present participle gerund":  "spreading"
+    },
+    {
+        "BF": "spring",
+        "Past Simple":  "sprang",
+        "Past participle":  "sprung",
+        "Third person singular":  "springs",
+        "Present participle gerund":  "springing"
+    },
+    {
+        "BF": "stall-feed",
+        "Past Simple":  "stall-fed",
+        "Past participle":  "stall-fed",
+        "Third person singular":  "stall-feeds",
+        "Present participle gerund":  "stall-feeding"
+    },
+    {
+        "BF": "stand",
+        "Past Simple":  "stood",
+        "Past participle":  "stood",
+        "Third person singular":  "stands",
+        "Present participle gerund":  "standing"
+    },
+    {
+        "BF": "stave",
+        "Past Simple":  "stove/staved/stoved",
+        "Past participle":  "stove/staved/stoved",
+        "Third person singular":  "staves",
+        "Present participle gerund":  "staving"
+    },
+    {
+        "BF": "steal",
+        "Past Simple":  "stole",
+        "Past participle":  "stolen",
+        "Third person singular":  "steals",
+        "Present participle gerund":  "stealing"
+    },
+    {
+        "BF": "stick",
+        "Past Simple":  "stuck",
+        "Past participle":  "stuck",
+        "Third person singular":  "sticks",
+        "Present participle gerund":  "sticking"
+    },
+    {
+        "BF": "sting",
+        "Past Simple":  "stung",
+        "Past participle":  "stung",
+        "Third person singular":  "stings",
+        "Present participle gerund":  "stinging"
+    },
+    {
+        "BF": "stink",
+        "Past Simple":  "stank",
+        "Past participle":  "stunk",
+        "Third person singular":  "stinks",
+        "Present participle gerund":  "stinking"
+    },
+    {
+        "BF": "straphang",
+        "Past Simple":  "straphung",
+        "Past participle":  "straphung",
+        "Third person singular":  "straphangs",
+        "Present participle gerund":  "straphanging"
+    },
+    {
+        "BF": "strew",
+        "Past Simple":  "strewed",
+        "Past participle":  "strewn/strewed",
+        "Third person singular":  "strews",
+        "Present participle gerund":  "strewing"
+    },
+    {
+        "BF": "stride",
+        "Past Simple":  "strode/strided",
+        "Past participle":  "stridden",
+        "Third person singular":  "strides",
+        "Present participle gerund":  "striding"
+    },
+    {
+        "BF": "strike",
+        "Past Simple":  "struck",
+        "Past participle":  "struck/stricken",
+        "Third person singular":  "strikes",
+        "Present participle gerund":  "striking"
+    },
+    {
+        "BF": "string",
+        "Past Simple":  "strung",
+        "Past participle":  "strung",
+        "Third person singular":  "strings",
+        "Present participle gerund":  "stringing"
+    },
+    {
+        "BF": "strip",
+        "Past Simple":  "stript/stripped",
+        "Past participle":  "stript/stripped",
+        "Third person singular":  "strips",
+        "Present participle gerund":  "stripping"
+    },
+    {
+        "BF": "strive",
+        "Past Simple":  "strove",
+        "Past participle":  "striven",
+        "Third person singular":  "strives",
+        "Present participle gerund":  "striving"
+    },
+    {
+        "BF": "sublet",
+        "Past Simple":  "sublet",
+        "Past participle":  "sublet",
+        "Third person singular":  "sublets",
+        "Present participle gerund":  "subletting"
+    },
+    {
+        "BF": "sunburn",
+        "Past Simple":  "sunburned/sunburnt",
+        "Past participle":  "sunburned/sunburnt",
+        "Third person singular":  "sunburns",
+        "Present participle gerund":  "sunburning"
+    },
+    {
+        "BF": "swear",
+        "Past Simple":  "swore",
+        "Past participle":  "sworn",
+        "Third person singular":  "swears",
+        "Present participle gerund":  "swearing"
+    },
+    {
+        "BF": "sweat",
+        "Past Simple":  "sweat/sweated",
+        "Past participle":  "sweat/sweated",
+        "Third person singular":  "sweats",
+        "Present participle gerund":  "sweating"
+    },
+    {
+        "BF": "sweep",
+        "Past Simple":  "swept/sweeped",
+        "Past participle":  "swept/sweeped",
+        "Third person singular":  "sweeps",
+        "Present participle gerund":  "sweeping"
+    },
+    {
+        "BF": "swell",
+        "Past Simple":  "swelled",
+        "Past participle":  "swollen",
+        "Third person singular":  "swells",
+        "Present participle gerund":  "swelling"
+    },
+    {
+        "BF": "swim",
+        "Past Simple":  "swam",
+        "Past participle":  "swum",
+        "Third person singular":  "swims",
+        "Present participle gerund":  "swimming"
+    },
+    {
+        "BF": "swing",
+        "Past Simple":  "swung",
+        "Past participle":  "swung",
+        "Third person singular":  "swings",
+        "Present participle gerund":  "swinging"
+    },
+    {
+        "BF": "swink",
+        "Past Simple":  "swank/swonk",
+        "Past participle":  "swonken",
+        "Third person singular":  "swinks",
+        "Present participle gerund":  "swinking"
+    },
+    {
+        "BF": "switch-hit",
+        "Past Simple":  "switch-hit",
+        "Past participle":  "switch-hit",
+        "Third person singular":  "switch-hits",
+        "Present participle gerund":  "switch-hitting"
+    },
+    {
+        "BF": "take",
+        "Past Simple":  "took",
+        "Past participle":  "taken",
+        "Third person singular":  "takes",
+        "Present participle gerund":  "taking"
+    },
+    {
+        "BF": "teach",
+        "Past Simple":  "taught",
+        "Past participle":  "taught",
+        "Third person singular":  "teaches",
+        "Present participle gerund":  "teaching"
+    },
+    {
+        "BF": "team-teach",
+        "Past Simple":  "team-taught",
+        "Past participle":  "team-taught",
+        "Third person singular":  "team-teaches",
+        "Present participle gerund":  "team-teaching"
+    },
+    {
+        "BF": "tear",
+        "Past Simple":  "tore",
+        "Past participle":  "torn",
+        "Third person singular":  "tears",
+        "Present participle gerund":  "tearing"
+    },
+    {
+        "BF": "telecast",
+        "Past Simple":  "telecast/telecasted",
+        "Past participle":  "telecast/telecasted",
+        "Third person singular":  "telecasts",
+        "Present participle gerund":  "telecasting"
+    },
+    {
+        "BF": "tell",
+        "Past Simple":  "told",
+        "Past participle":  "told",
+        "Third person singular":  "tells",
+        "Present participle gerund":  "telling"
+    },
+    {
+        "BF": "test-drive",
+        "Past Simple":  "test-drove",
+        "Past participle":  "test-driven",
+        "Third person singular":  "test-drives",
+        "Present participle gerund":  "test-driving"
+    },
+    {
+        "BF": "test-fly",
+        "Past Simple":  "test-flew",
+        "Past participle":  "test-flown",
+        "Third person singular":  "test-flies",
+        "Present participle gerund":  "test-flying"
+    },
+    {
+        "BF": "think",
+        "Past Simple":  "thought",
+        "Past participle":  "thought",
+        "Third person singular":  "thinks",
+        "Present participle gerund":  "thinking"
+    },
+    {
+        "BF": "thrive",
+        "Past Simple":  "throve/thrived",
+        "Past participle":  "thriven/thrived",
+        "Third person singular":  "thrives",
+        "Present participle gerund":  "thriving"
+    },
+    {
+        "BF": "throw",
+        "Past Simple":  "threw",
+        "Past participle":  "thrown",
+        "Third person singular":  "throws",
+        "Present participle gerund":  "throwing"
+    },
+    {
+        "BF": "thrust",
+        "Past Simple":  "thrust",
+        "Past participle":  "thrust",
+        "Third person singular":  "thrusts",
+        "Present participle gerund":  "thrusting"
+    },
+    {
+        "BF": "thunderstrike",
+        "Past Simple":  "thunderstruck",
+        "Past participle":  "thunderstruck/thunderstricken",
+        "Third person singular":  "thunderstrikes",
+        "Present participle gerund":  "thunderstriking"
+    },
+    {
+        "BF": "tine",
+        "Past Simple":  "tint/tined",
+        "Past participle":  "tint/tined",
+        "Third person singular":  "tines",
+        "Present participle gerund":  "tining"
+    },
+    {
+        "BF": "tread",
+        "Past Simple":  "trod",
+        "Past participle":  "trodden",
+        "Third person singular":  "treads",
+        "Present participle gerund":  "treading"
+    },
+    {
+        "BF": "troubleshoot",
+        "Past Simple":  "troubleshot",
+        "Past participle":  "troubleshot",
+        "Third person singular":  "troubleshoots",
+        "Present participle gerund":  "troubleshooting"
+    },
+    {
+        "BF": "typecast",
+        "Past Simple":  "typecast",
+        "Past participle":  "typecast",
+        "Third person singular":  "typecasts",
+        "Present participle gerund":  "typecasting"
+    },
+    {
+        "BF": "typeset",
+        "Past Simple":  "typeset",
+        "Past participle":  "typeset",
+        "Third person singular":  "typesets",
+        "Present participle gerund":  "typesetting"
+    },
+    {
+        "BF": "typewrite",
+        "Past Simple":  "typewrote",
+        "Past participle":  "typewritten",
+        "Third person singular":  "typewrites",
+        "Present participle gerund":  "typewriting"
+    },
+    {
+        "BF": "unbear",
+        "Past Simple":  "unbore",
+        "Past participle":  "unborn/unborne",
+        "Third person singular":  "unbears",
+        "Present participle gerund":  "unbearing"
+    },
+    {
+        "BF": "unbend",
+        "Past Simple":  "unbent",
+        "Past participle":  "unbent",
+        "Third person singular":  "unbends",
+        "Present participle gerund":  "unbending"
+    },
+    {
+        "BF": "unbind",
+        "Past Simple":  "unbound",
+        "Past participle":  "unbound",
+        "Third person singular":  "unbinds",
+        "Present participle gerund":  "unbinding"
+    },
+    {
+        "BF": "unbuild",
+        "Past Simple":  "unbuilt",
+        "Past participle":  "unbuilt",
+        "Third person singular":  "unbuilds",
+        "Present participle gerund":  "unbuilding"
+    },
+    {
+        "BF": "unclothe",
+        "Past Simple":  "unclad/unclothed",
+        "Past participle":  "unclad/unclothed",
+        "Third person singular":  "unclothes",
+        "Present participle gerund":  "unclothing"
+    },
+    {
+        "BF": "underbid",
+        "Past Simple":  "underbid",
+        "Past participle":  "underbid/underbidden",
+        "Third person singular":  "underbids",
+        "Present participle gerund":  "underbidding"
+    },
+    {
+        "BF": "underbuy",
+        "Past Simple":  "underbought",
+        "Past participle":  "underbought",
+        "Third person singular":  "underbuys",
+        "Present participle gerund":  "underbuying"
+    },
+    {
+        "BF": "undercut",
+        "Past Simple":  "undercut",
+        "Past participle":  "undercut",
+        "Third person singular":  "undercuts",
+        "Present participle gerund":  "undercutting"
+    },
+    {
+        "BF": "underdo",
+        "Past Simple":  "underdid",
+        "Past participle":  "underdone",
+        "Third person singular":  "underdoes",
+        "Present participle gerund":  "underdoing"
+    },
+    {
+        "BF": "underfeed",
+        "Past Simple":  "underfed",
+        "Past participle":  "underfed",
+        "Third person singular":  "underfeeds",
+        "Present participle gerund":  "underfeeding"
+    },
+    {
+        "BF": "undergird",
+        "Past Simple":  "undergirt/undergirded",
+        "Past participle":  "undergirt/undergirded",
+        "Third person singular":  "undergirds",
+        "Present participle gerund":  "undergirding"
+    },
+    {
+        "BF": "undergo",
+        "Past Simple":  "underwent",
+        "Past participle":  "undergone",
+        "Third person singular":  "undergoes",
+        "Present participle gerund":  "undergoing"
+    },
+    {
+        "BF": "underlay",
+        "Past Simple":  "underlaid",
+        "Past participle":  "underlaid",
+        "Third person singular":  "underlays",
+        "Present participle gerund":  "underlaying"
+    },
+    {
+        "BF": "underlet",
+        "Past Simple":  "underlet",
+        "Past participle":  "underlet",
+        "Third person singular":  "underlets",
+        "Present participle gerund":  "underletting"
+    },
+    {
+        "BF": "underlie",
+        "Past Simple":  "underlay",
+        "Past participle":  "underlain",
+        "Third person singular":  "underlies",
+        "Present participle gerund":  "underlying"
+    },
+    {
+        "BF": "underpay",
+        "Past Simple":  "underpaid",
+        "Past participle":  "underpaid",
+        "Third person singular":  "underpays",
+        "Present participle gerund":  "underpaying"
+    },
+    {
+        "BF": "underrun",
+        "Past Simple":  "underran",
+        "Past participle":  "underrun",
+        "Third person singular":  "underruns",
+        "Present participle gerund":  "underrunning"
+    },
+    {
+        "BF": "undersell",
+        "Past Simple":  "undersold",
+        "Past participle":  "undersold",
+        "Third person singular":  "undersells",
+        "Present participle gerund":  "underselling"
+    },
+    {
+        "BF": "undershoot",
+        "Past Simple":  "undershot",
+        "Past participle":  "undershot",
+        "Third person singular":  "undershoots",
+        "Present participle gerund":  "undershooting"
+    },
+    {
+        "BF": "underspend",
+        "Past Simple":  "underspent",
+        "Past participle":  "underspent",
+        "Third person singular":  "underspends",
+        "Present participle gerund":  "underspending"
+    },
+    {
+        "BF": "understand",
+        "Past Simple":  "understood",
+        "Past participle":  "understood",
+        "Third person singular":  "understands",
+        "Present participle gerund":  "understanding"
+    },
+    {
+        "BF": "undertake",
+        "Past Simple":  "undertook",
+        "Past participle":  "undertaken",
+        "Third person singular":  "undertakes",
+        "Present participle gerund":  "undertaking"
+    },
+    {
+        "BF": "underthrust",
+        "Past Simple":  "underthrust",
+        "Past participle":  "underthrust",
+        "Third person singular":  "underthrusts",
+        "Present participle gerund":  "underthrusting"
+    },
+    {
+        "BF": "underwrite",
+        "Past Simple":  "underwrote",
+        "Past participle":  "underwritten",
+        "Third person singular":  "underwrites",
+        "Present participle gerund":  "underwriting"
+    },
+    {
+        "BF": "undo",
+        "Past Simple":  "undid",
+        "Past participle":  "undone",
+        "Third person singular":  "undoes",
+        "Present participle gerund":  "undoing"
+    },
+    {
+        "BF": "undraw",
+        "Past Simple":  "undrew",
+        "Past participle":  "undrawn",
+        "Third person singular":  "undraws",
+        "Present participle gerund":  "undrawing"
+    },
+    {
+        "BF": "undraw",
+        "Past Simple":  "undrew",
+        "Past participle":  "undrawn",
+        "Third person singular":  "undraws",
+        "Present participle gerund":  "undrawing"
+    },
+    {
+        "BF": "unfreeze",
+        "Past Simple":  "unfroze",
+        "Past participle":  "unfrozen",
+        "Third person singular":  "unfreezes",
+        "Present participle gerund":  "unfreezing"
+    },
+    {
+        "BF": "unhang",
+        "Past Simple":  "unhung",
+        "Past participle":  "unhung",
+        "Third person singular":  "unhangs",
+        "Present participle gerund":  "unhanging"
+    },
+    {
+        "BF": "unhide",
+        "Past Simple":  "unhid",
+        "Past participle":  "unhidden",
+        "Third person singular":  "unhides",
+        "Present participle gerund":  "unhiding"
+    },
+    {
+        "BF": "unhold",
+        "Past Simple":  "unheld",
+        "Past participle":  "unheld",
+        "Third person singular":  "unholds",
+        "Present participle gerund":  "unholding"
+    },
+    {
+        "BF": "unknit",
+        "Past Simple":  "unknit/unknitted",
+        "Past participle":  "unknit/unknitted",
+        "Third person singular":  "unknits",
+        "Present participle gerund":  "unknitting"
+    },
+    {
+        "BF": "unlade",
+        "Past Simple":  "unladed",
+        "Past participle":  "unladen/unladed",
+        "Third person singular":  "unlades",
+        "Present participle gerund":  "unlading"
+    },
+    {
+        "BF": "unlay",
+        "Past Simple":  "unlaid",
+        "Past participle":  "unlaid",
+        "Third person singular":  "unlays",
+        "Present participle gerund":  "unlaying"
+    },
+    {
+        "BF": "unlearn",
+        "Past Simple":  "unlearnt/unlearned",
+        "Past participle":  "unlearnt/unlearned",
+        "Third person singular":  "unlearns",
+        "Present participle gerund":  "unlearning"
+    },
+    {
+        "BF": "unmake",
+        "Past Simple":  "unmade",
+        "Past participle":  "unmade",
+        "Third person singular":  "unmakes",
+        "Present participle gerund":  "unmaking"
+    },
+    {
+        "BF": "unreeve",
+        "Past Simple":  "unrove/unreeved",
+        "Past participle":  "unrove/unreeved",
+        "Third person singular":  "unreeves",
+        "Present participle gerund":  "unreeving"
+    },
+    {
+        "BF": "unsay",
+        "Past Simple":  "unsaid",
+        "Past participle":  "unsaid",
+        "Third person singular":  "unsays",
+        "Present participle gerund":  "unsaying"
+    },
+    {
+        "BF": "unsell",
+        "Past Simple":  "unsold",
+        "Past participle":  "unsold",
+        "Third person singular":  "unsells",
+        "Present participle gerund":  "unselling"
+    },
+    {
+        "BF": "unsew",
+        "Past Simple":  "unsewed",
+        "Past participle":  "unsewn/unsewed",
+        "Third person singular":  "unsews",
+        "Present participle gerund":  "unsewing"
+    },
+    {
+        "BF": "unsling",
+        "Past Simple":  "unslung",
+        "Past participle":  "unslung",
+        "Third person singular":  "unslings",
+        "Present participle gerund":  "unslinging"
+    },
+    {
+        "BF": "unspeak",
+        "Past Simple":  "unspoke",
+        "Past participle":  "unspoken",
+        "Third person singular":  "unspeaks",
+        "Present participle gerund":  "unspeaking"
+    },
+    {
+        "BF": "unspin",
+        "Past Simple":  "unspun",
+        "Past participle":  "unspun",
+        "Third person singular":  "unspins",
+        "Present participle gerund":  "unspinning"
+    },
+    {
+        "BF": "unstick",
+        "Past Simple":  "unstuck",
+        "Past participle":  "unstuck",
+        "Third person singular":  "unsticks",
+        "Present participle gerund":  "unsticking"
+    },
+    {
+        "BF": "unstring",
+        "Past Simple":  "unstrung",
+        "Past participle":  "unstrung",
+        "Third person singular":  "unstrings",
+        "Present participle gerund":  "unstringing"
+    },
+    {
+        "BF": "unswear",
+        "Past Simple":  "unswore",
+        "Past participle":  "unsworn",
+        "Third person singular":  "unswears",
+        "Present participle gerund":  "unswearing"
+    },
+    {
+        "BF": "unteach",
+        "Past Simple":  "untaught",
+        "Past participle":  "untaught",
+        "Third person singular":  "unteaches",
+        "Present participle gerund":  "unteaching"
+    },
+    {
+        "BF": "unthink",
+        "Past Simple":  "unthought",
+        "Past participle":  "unthought",
+        "Third person singular":  "unthinks",
+        "Present participle gerund":  "unthinking"
+    },
+    {
+        "BF": "untread",
+        "Past Simple":  "untrod",
+        "Past participle":  "untrodden",
+        "Third person singular":  "untreads",
+        "Present participle gerund":  "untreading"
+    },
+    {
+        "BF": "unweave",
+        "Past Simple":  "unwove",
+        "Past participle":  "unwoven",
+        "Third person singular":  "unweaves",
+        "Present participle gerund":  "unweaving"
+    },
+    {
+        "BF": "unwind",
+        "Past Simple":  "unwound",
+        "Past participle":  "unwound",
+        "Third person singular":  "unwinds",
+        "Present participle gerund":  "unwinding"
+    },
+    {
+        "BF": "unwrite",
+        "Past Simple":  "unwrote",
+        "Past participle":  "unwritten",
+        "Third person singular":  "unwrites",
+        "Present participle gerund":  "unwriting"
+    },
+    {
+        "BF": "upbuild",
+        "Past Simple":  "upbuilt",
+        "Past participle":  "upbuilt",
+        "Third person singular":  "upbuilds",
+        "Present participle gerund":  "upbuilding"
+    },
+    {
+        "BF": "uphold",
+        "Past Simple":  "upheld",
+        "Past participle":  "upheld",
+        "Third person singular":  "upholds",
+        "Present participle gerund":  "upholding"
+    },
+    {
+        "BF": "uppercut",
+        "Past Simple":  "uppercut",
+        "Past participle":  "uppercut",
+        "Third person singular":  "uppercuts",
+        "Present participle gerund":  "uppercutting"
+    },
+    {
+        "BF": "uprise",
+        "Past Simple":  "uprose",
+        "Past participle":  "uprisen",
+        "Third person singular":  "uprises",
+        "Present participle gerund":  "uprising"
+    },
+    {
+        "BF": "upset",
+        "Past Simple":  "upset",
+        "Past participle":  "upset",
+        "Third person singular":  "upsets",
+        "Present participle gerund":  "upsetting"
+    },
+    {
+        "BF": "upspring",
+        "Past Simple":  "upsprang",
+        "Past participle":  "upsprung",
+        "Third person singular":  "upsprings",
+        "Present participle gerund":  "upspringing"
+    },
+    {
+        "BF": "upsweep",
+        "Past Simple":  "upswept",
+        "Past participle":  "upswept",
+        "Third person singular":  "upsweeps",
+        "Present participle gerund":  "upsweeping"
+    },
+    {
+        "BF": "uptear",
+        "Past Simple":  "uptore",
+        "Past participle":  "uptorn",
+        "Third person singular":  "uptears",
+        "Present participle gerund":  "uptearing"
+    },
+    {
+        "BF": "vex",
+        "Past Simple":  "vext/vexed",
+        "Past participle":  "vext/vexed",
+        "Third person singular":  "vexes",
+        "Present participle gerund":  "vexing"
+    },
+    {
+        "BF": "wake",
+        "Past Simple":  "woke",
+        "Past participle":  "woken",
+        "Third person singular":  "wakes",
+        "Present participle gerund":  "waking"
+    },
+    {
+        "BF": "waylay",
+        "Past Simple":  "waylaid",
+        "Past participle":  "waylaid",
+        "Third person singular":  "waylays",
+        "Present participle gerund":  "waylaying"
+    },
+    {
+        "BF": "wear",
+        "Past Simple":  "wore",
+        "Past participle":  "worn",
+        "Third person singular":  "wears",
+        "Present participle gerund":  "wearing"
+    },
+    {
+        "BF": "weave",
+        "Past Simple":  "wove",
+        "Past participle":  "woven",
+        "Third person singular":  "weaves",
+        "Present participle gerund":  "weaving"
+    },
+    {
+        "BF": "wed",
+        "Past Simple":  "wed/wedded",
+        "Past participle":  "wed/wedded",
+        "Third person singular":  "weds",
+        "Present participle gerund":  "wedding"
+    },
+    {
+        "BF": "weep",
+        "Past Simple":  "wept",
+        "Past participle":  "wept",
+        "Third person singular":  "weeps",
+        "Present participle gerund":  "weeping"
+    },
+    {
+        "BF": "wend",
+        "Past Simple":  "wended/went",
+        "Past participle":  "wended/went",
+        "Third person singular":  "wends",
+        "Present participle gerund":  "wending"
+    },
+    {
+        "BF": "wet",
+        "Past Simple":  "wet/wetted",
+        "Past participle":  "wet/wetted",
+        "Third person singular":  "wets",
+        "Present participle gerund":  "wetting"
+    },
+    {
+        "BF": "whipsaw",
+        "Past Simple":  "whipsawed",
+        "Past participle":  "whipsawn/whipsawed",
+        "Third person singular":  "whipsaws",
+        "Present participle gerund":  "whipsawing"
+    },
+    {
+        "BF": "win",
+        "Past Simple":  "won",
+        "Past participle":  "won",
+        "Third person singular":  "wins",
+        "Present participle gerund":  "winning"
+    },
+    {
+        "BF": "wind",
+        "Past Simple":  "wound",
+        "Past participle":  "wound",
+        "Third person singular":  "winds",
+        "Present participle gerund":  "winding"
+    },
+    {
+        "BF": "winterfeed",
+        "Past Simple":  "winterfed",
+        "Past participle":  "winterfed",
+        "Third person singular":  "winterfeeds",
+        "Present participle gerund":  "winterfeeding"
+    },
+    {
+        "BF": "wiredraw",
+        "Past Simple":  "wiredrew",
+        "Past participle":  "wiredrawn",
+        "Third person singular":  "wiredraws",
+        "Present participle gerund":  "wiredrawing"
+    },
+    {
+        "BF": "wit",
+        "Past Simple":  "wist",
+        "Past participle":  "wist",
+        "Third person singular":  "wot",
+        "Present participle gerund":  "witting"
+    },
+    {
+        "BF": "withdraw",
+        "Past Simple":  "withdrew",
+        "Past participle":  "withdrawn",
+        "Third person singular":  "withdraws",
+        "Present participle gerund":  "withdrawing"
+    },
+    {
+        "BF": "withhold",
+        "Past Simple":  "withheld",
+        "Past participle":  "withheld",
+        "Third person singular":  "withholds",
+        "Present participle gerund":  "withholding"
+    },
+    {
+        "BF": "withstand",
+        "Past Simple":  "withstood",
+        "Past participle":  "withstood",
+        "Third person singular":  "withstands",
+        "Present participle gerund":  "withstanding"
+    },
+    {
+        "BF": "wont",
+        "Past Simple":  "wont",
+        "Past participle":  "wont/wonted",
+        "Third person singular":  "wonts",
+        "Present participle gerund":  "wonting"
+    },
+    {
+        "BF": "work",
+        "Past Simple":  "worked/wrought",
+        "Past participle":  "worked/wrought",
+        "Third person singular":  "works",
+        "Present participle gerund":  "working"
+    },
+    {
+        "BF": "wrap",
+        "Past Simple":  "wrapped/wrapt",
+        "Past participle":  "wrapped/wrapt",
+        "Third person singular":  "wraps",
+        "Present participle gerund":  "wrapping"
+    },
+    {
+        "BF": "wreak",
+        "Past Simple":  "wreaked",
+        "Past participle":  "wreaked/wroken",
+        "Third person singular":  "wreaks",
+        "Present participle gerund":  "wreaking"
+    },
+    {
+        "BF": "wring",
+        "Past Simple":  "wrung",
+        "Past participle":  "wrung",
+        "Third person singular":  "wrings",
+        "Present participle gerund":  "wringing"
+    },
+    {
+        "BF": "write",
+        "Past Simple":  "wrote",
+        "Past participle":  "written",
+        "Third person singular":  "writes",
+        "Present participle gerund":  "writing"
+    },
+    {
+        "BF": "zinc",
+        "Past Simple":  "zinced/zincked",
+        "Past participle":  "zinced/zincked",
+        "Third person singular":  "zincs",
+        "Present participle gerund":  "zincking"
+    }
+]
