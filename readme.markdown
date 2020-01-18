@@ -4,10 +4,10 @@ Find regular and irregular English verbs.
 Third person singular and Present participle gerund forms.
 
 # Install
-npm i node-english-verbs
+npm i english-verbs
 
 # Usage
-var getVerb = require('node-english-verbs');
+var getVerb = require('english-verbs');
 
 console.log(getVerb('go'));
 
