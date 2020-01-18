@@ -1,10 +1,15 @@
-# install
-npm i eng-verbs
+# Description
+Find regular and irregular English verbs.
 
-# usage
-var getVerb = require('eng-verbs');
+Third person singular and Present participle gerund forms.
+
+# Install
+npm i node-english-verbs
+
+# Usage
+var getVerb = require('node-english-verbs');
 
 console.log(getVerb('go'));
 
-# license
+# License
 MIT
