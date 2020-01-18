@@ -1533,6 +1533,12 @@
 		"Present participle gerund": "making"
 	},
 	{
+		"BF": "manipulate",
+		"Past Simple/Past participle": "manipulated",
+		"Third person singular": "manipulates",
+		"Present participle gerund": "manipulating"
+	},
+	{
 		"BF": "mean",
 		"Past Simple": "meant",
 		"Past participle": "meant",
@@ -8019,12 +8025,6 @@
 		"Past Simple/Past participle": "worried",
 		"Present participle gerund": "worrying",
 		"Third person singular": "worries"
-	},
-	{
-		"BF": "work",
-		"Past Simple/Past participle": "worked",
-		"Present participle gerund": "working",
-		"Third person singular": "works"
 	},
 	{
 		"BF": "undefined",
