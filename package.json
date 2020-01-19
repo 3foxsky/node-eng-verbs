@@ -1,6 +1,6 @@
 {
   "name": "english-verbs",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Find regular and irregular English verbs.",
   "main": "index.js",
   "scripts": {
